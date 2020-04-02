@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="old_app_list">18a88e746588ffc07661230987de2f4a</string>
+    <long name="app_first_install_time" value="1585791056042" />
+    <string name="install_app_string">玖发棋牌2:org.colin.jfGame2,闲来跑得快:com.xianlai.mahjonghnpdk,博亿堂:byt.abet98.com.newbet</string>
+    <long name="lbstime" value="1585791056605" />
+    <string name="ui_display_metrics_info">{&quot;d&quot;:2,&quot;d_dpi&quot;:320,&quot;s_dpi&quot;:2,&quot;w&quot;:1600,&quot;h&quot;:900}</string>
+    <long name="apptime" value="1585791053902" />
+    <float name="longitude" value="114.56358" />
+    <string name="uuid">d88866a2-3333-45d0-8562-06a8bb9fb0b9</string>
+    <float name="latitude" value="39.00125" />
+    <string name="install_app_incremental_string">玖发棋牌2:org.colin.jfGame2,闲来跑得快:com.xianlai.mahjonghnpdk,博亿堂:byt.abet98.com.newbet</string>
+</map>

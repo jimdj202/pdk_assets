@@ -1,0 +1,20 @@
+{
+    "is_android_agora":true,
+    "is_android_amap":true,
+    "is_android_bugly":true,
+    "is_android_qiyu":true,
+    "is_android_tracking":true,
+    "is_android_umeng_analytic":true,
+    "is_android_umeng_push":true,
+    "is_android_yaya":true,
+    "is_android_wx":true,
+    "is_android_yunceng":true,
+    "is_android_xinge":true,
+    "is_android_noe":true,
+    "android_noe_info": {
+        "com.xianlai.mahjonghn": {
+            "noe_channel_id":"HXZGQD010135",
+            "noe_key":"4039B8B768A96882CC55B10435B00039"
+        }
+    }
+}

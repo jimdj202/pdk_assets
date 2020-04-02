@@ -1,0 +1,265 @@
+
+SP_Chicken.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChuiZhi
+  rotate: false
+  xy: 2, 197
+  size: 332, 313
+  orig: 332, 313
+  offset: 0, 0
+  index: -1
+DaBian
+  rotate: false
+  xy: 336, 185
+  size: 148, 133
+  orig: 148, 133
+  offset: 0, 0
+  index: -1
+Xpt_tuoxie_01
+  rotate: false
+  xy: 2, 14
+  size: 238, 181
+  orig: 238, 181
+  offset: 0, 0
+  index: -1
+chicken_Badlaugh_eye
+  rotate: true
+  xy: 242, 84
+  size: 111, 47
+  orig: 111, 47
+  offset: 0, 0
+  index: -1
+chicken_Badlaugh_eyebrow
+  rotate: false
+  xy: 892, 461
+  size: 65, 14
+  orig: 65, 14
+  offset: 0, 0
+  index: -1
+chicken_Badlaugh_mouth
+  rotate: false
+  xy: 376, 146
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+chicken_Body
+  rotate: true
+  xy: 488, 403
+  size: 107, 199
+  orig: 107, 199
+  offset: 0, 0
+  index: -1
+chicken_Halfside_eye
+  rotate: false
+  xy: 819, 457
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+chicken_Halfside_eyebrow
+  rotate: false
+  xy: 561, 328
+  size: 54, 12
+  orig: 54, 12
+  offset: 0, 0
+  index: -1
+chicken_Halfside_mouth
+  rotate: true
+  xy: 312, 45
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+chicken_L_eyebrow
+  rotate: false
+  xy: 869, 407
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+chicken_L_foot
+  rotate: false
+  xy: 628, 354
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+chicken_L_hand
+  rotate: false
+  xy: 819, 407
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+chicken_L_hand-1
+  rotate: true
+  xy: 242, 28
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+chicken_R_eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+chicken_R_foot
+  rotate: true
+  xy: 423, 151
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+chicken_R_hand
+  rotate: false
+  xy: 291, 75
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+chicken_R_hand-1
+  rotate: false
+  xy: 969, 475
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+chicken_biyan
+  rotate: false
+  xy: 892, 477
+  size: 75, 33
+  orig: 75, 33
+  offset: 0, 0
+  index: -1
+chicken_biyan-1
+  rotate: true
+  xy: 291, 118
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+chicken_bizui
+  rotate: false
+  xy: 471, 158
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+chicken_hair_01
+  rotate: false
+  xy: 668, 376
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+chicken_mouth
+  rotate: false
+  xy: 668, 349
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+chicken_mouth_1
+  rotate: false
+  xy: 897, 425
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+chicken_side_Body
+  rotate: false
+  xy: 336, 320
+  size: 150, 190
+  orig: 150, 190
+  offset: 0, 0
+  index: -1
+chicken_side_L_foot
+  rotate: false
+  xy: 328, 115
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+chicken_side_L_hand
+  rotate: false
+  xy: 328, 144
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+chicken_side_R_foot
+  rotate: true
+  xy: 926, 426
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+chicken_side_biyan
+  rotate: false
+  xy: 869, 420
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+chicken_side_eye
+  rotate: true
+  xy: 819, 376
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+chicken_side_eyebrow
+  rotate: false
+  xy: 717, 367
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+chicken_side_hair_01
+  rotate: false
+  xy: 693, 355
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+chicken_side_mouth
+  rotate: false
+  xy: 328, 86
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+chicken_side_wangguan
+  rotate: false
+  xy: 488, 327
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+chicken_tail
+  rotate: false
+  xy: 283, 41
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+chicken_wangguan
+  rotate: false
+  xy: 561, 342
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 689, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

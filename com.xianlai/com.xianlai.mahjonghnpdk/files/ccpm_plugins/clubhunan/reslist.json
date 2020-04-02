@@ -1,0 +1,2675 @@
+{
+    "app/club/club/Club.luac": {
+        "md5": "ccc427ab663bcedabcdedabbd04cbf0a"
+    },
+    "app/club/club/GuildDataConfig.luac": {
+        "md5": "01032a9f15ce57edb6b5dc4b2b127ac9"
+    },
+    "app/club/club/GuildUiConfig.luac": {
+        "md5": "a28a40fa500ea843f63fd1b38e53dfa5"
+    },
+    "app/club/club/Guild_v2_GuildCheckRoomNumber.luac": {
+        "md5": "4bb374bb3d9141e504c757281613bbbe"
+    },
+    "app/club/club/Guild_v2_GuildCreateHelp.luac": {
+        "md5": "06ee75ed8fa0c07a28e46cc7d1682c04"
+    },
+    "app/club/club/Guild_v2_GuildDetailed.luac": {
+        "md5": "5f99d2cd2aa508ac76b0277984982cb5"
+    },
+    "app/club/club/Guild_v2_GuildHelp.luac": {
+        "md5": "386a9473d5be0508da58a379639d31a0"
+    },
+    "app/club/club/Guild_v2_GuildHistory.luac": {
+        "md5": "de47c36cc926ad1897585415598088d9"
+    },
+    "app/club/club/Guild_v2_GuildHistoryDetailed.luac": {
+        "md5": "ae0a8b10b8210aba03a112f623307605"
+    },
+    "app/club/club/Guild_v2_GuildHistoryDetailedNew.luac": {
+        "md5": "0d7c3326a0c1a93661d3586fad6b65b0"
+    },
+    "app/club/club/Guild_v2_GuildHistoryHelp.luac": {
+        "md5": "1e7e4e85c7655c2c26b93a235cb632e1"
+    },
+    "app/club/club/Guild_v2_GuildHistoryRStatistics.luac": {
+        "md5": "c1288db35bc962890b21d8c3a6334b26"
+    },
+    "app/club/club/Guild_v2_GuildHistoryRanking.luac": {
+        "md5": "7de59ee00f062630d2d53f9a1372eb56"
+    },
+    "app/club/club/Guild_v2_GuildHistoryRecord.luac": {
+        "md5": "a47d70f074e348397261913ce970e49b"
+    },
+    "app/club/club/Guild_v2_GuildHistoryStatics.luac": {
+        "md5": "327f3fd33eb90f1ef8955aad3139d138"
+    },
+    "app/club/club/Guild_v2_GuildInvited.luac": {
+        "md5": "710f221cb7eb72f540ef434a2d19b504"
+    },
+    "app/club/club/Guild_v2_GuildJoinHelp.luac": {
+        "md5": "87d64b3b11857293e965608a9c784f26"
+    },
+    "app/club/club/Guild_v2_GuildJoinNode.luac": {
+        "md5": "dd20e262f1b0a09bfaf709c856457448"
+    },
+    "app/club/club/Guild_v2_GuildMainPanel.luac": {
+        "md5": "dff3981fda8c883889b97bd9b8c78835"
+    },
+    "app/club/club/Guild_v2_GuildManagePanel.luac": {
+        "md5": "ae8e3bf9df78e52102cd35711fdee529"
+    },
+    "app/club/club/Guild_v2_GuildManagePanelGeneral.luac": {
+        "md5": "9bf549d441f0c7fb020f4ef70a6cdd19"
+    },
+    "app/club/club/Guild_v2_GuildManager.luac": {
+        "md5": "fcdf8e3b63a1de5940421406dc91c528"
+    },
+    "app/club/club/Guild_v2_GuildMember.luac": {
+        "md5": "ffbf997c767fa76d31f88365f2a2bf47"
+    },
+    "app/club/club/Guild_v2_GuildRefuseList.luac": {
+        "md5": "45dfa2f6acf4891a7bb98bc07ef3dcf5"
+    },
+    "app/club/club/Guild_v2_GuildReset.luac": {
+        "md5": "6412b0b587c945f4fbde1f2a1d3bdfe7"
+    },
+    "app/club/club/Guild_v2_GuildTools.luac": {
+        "md5": "550014ab1c1599602a8fcf30e5d4d116"
+    },
+    "app/club/club/Guild_v2_Guildinvite.luac": {
+        "md5": "e64db61fe25912216265faf03b6fedcc"
+    },
+    "app/club/club/Guild_v2_NoticeTips.luac": {
+        "md5": "1a9b6109aaaa99f8b32dd48fb7d8b478"
+    },
+    "app/club/club/Guild_v2_NoticeTipsAnother.luac": {
+        "md5": "091d7d74444d1c957255ed536fa778f1"
+    },
+    "app/club/club/Guild_v2_PlayerHeadManager.luac": {
+        "md5": "591ca307c0b20b0f6cb26eb7c37840d0"
+    },
+    "app/club/club/activities/c2c/GuildC2CMainView.luac": {
+        "md5": "e679b5b01e14be7b42dd3dee7bf3a8e2"
+    },
+    "app/club/club/activities/c2c/GuildC2CPublicize.luac": {
+        "md5": "ca068808c362ff59ec0eddf006cb7c26"
+    },
+    "app/club/club/activities/c2c/GuildC2CRecall.luac": {
+        "md5": "2bd43ac4b4c3a8e2cce79e8be2e16817"
+    },
+    "app/club/club/activities/c2c/GuildC2CRecallCell.luac": {
+        "md5": "c982cad17cd40a4c41c8ba489ee382e8"
+    },
+    "app/club/club/activities/c2c/GuildC2CRedPacket.luac": {
+        "md5": "88032ed5fdfe28bc3069113cba6cce06"
+    },
+    "app/club/club/activities/c2c/GuildC2CRewardCell.luac": {
+        "md5": "efc0d32c09efc15df067a5461509db20"
+    },
+    "app/club/club/activities/c2c/GuildC2CRewardView.luac": {
+        "md5": "2e0cbff362c49d6bf13fb8b110708fed"
+    },
+    "app/club/club/activities/c2c/GuildC2CRuleView.luac": {
+        "md5": "4c57a791d4cba9136ee64ef8bc8c3cae"
+    },
+    "app/club/club/activities/c2c/regdataconfig.luac": {
+        "md5": "11e7117ba0cc6cb0c407cb28dc88a134"
+    },
+    "app/club/club/activities/recall/GuildInvOrRecCell.luac": {
+        "md5": "c7bc126b464c5ede426947082865817e"
+    },
+    "app/club/club/activities/recall/GuildInvitedView.luac": {
+        "md5": "81c811e150c5a8b18215e9bafe1f5c83"
+    },
+    "app/club/club/activities/recall/GuildRecallHelpView.luac": {
+        "md5": "b25185cf1b8fc263e43ba19a5c3674f4"
+    },
+    "app/club/club/activities/recall/GuildRecallHistory.luac": {
+        "md5": "958c8c420192ac6d272c73542a5085c9"
+    },
+    "app/club/club/activities/recall/GuildRecallHistoryCell.luac": {
+        "md5": "b225f824be96bebcc3722968ac876d20"
+    },
+    "app/club/club/activities/recall/GuildRecallNoticView.luac": {
+        "md5": "55b96ba813c3b90728188644e93e1d0f"
+    },
+    "app/club/club/activities/recall/GuildRecallView.luac": {
+        "md5": "e3e78fa44e1aa0a23587471712f6512a"
+    },
+    "app/club/club/activities/recall/GuildRecalledView.luac": {
+        "md5": "b9a61a6fa94c0e96fb13ad43ee8d81d2"
+    },
+    "app/club/club/activities/recall/canrecall/GuildCanRecallListCell.luac": {
+        "md5": "c395b4ee103d6eaa11f4a2293dfeab06"
+    },
+    "app/club/club/activities/recall/canrecall/GuildCanRecallListView.luac": {
+        "md5": "498823cd588d9245f9665e0755fceda2"
+    },
+    "app/club/club/activities/recall/config.luac": {
+        "md5": "a3052e28d34e8a8bedda14004160fb6d"
+    },
+    "app/club/club/activities/recall/guide/GuildRecallGuideView.luac": {
+        "md5": "d662f34942303fb14b44a64d93403464"
+    },
+    "app/club/club/activities/recall/public/GuildPublicMap.luac": {
+        "md5": "f025105f040f5d07c9af14d8f2016953"
+    },
+    "app/club/club/activities/recall/regdataconfig.luac": {
+        "md5": "a490a2af63a216acc02eaa341f2c0fcf"
+    },
+    "app/club/club/activities/returncard/GuildReturnCard.luac": {
+        "md5": "c8e3ef9cb55cf54ff2cf60a3982c44df"
+    },
+    "app/club/club/activities/returncard/GuildReturnCardReward.luac": {
+        "md5": "d132ffd22b6c2ded1651bb5cdf698ed4"
+    },
+    "app/club/club/activities/returncard/GuildReturnCardRewardCell.luac": {
+        "md5": "41b9b361a2da8be14b6f2d258bb7176e"
+    },
+    "app/club/club/activities/returncard/GuildReturnCardRule.luac": {
+        "md5": "b7bc8cae66a59d824d4ea6bf7bb2a903"
+    },
+    "app/club/club/activities/returncard/config.luac": {
+        "md5": "1971f1ee842f801f59c129d8f223c483"
+    },
+    "app/club/club/activities/reward/GuildRewardOfJoin.luac": {
+        "md5": "58b51aa7a3c5d5da8c35f92ebe56c61e"
+    },
+    "app/club/club/activities/reward/GuildRewardOfJoinSucc.luac": {
+        "md5": "ff0c81fa40706b8e0d1845d0a17f4f6f"
+    },
+    "app/club/club/activities/task/GuildTaskMainView.luac": {
+        "md5": "cc7636953c4fa27f132408822ddca41a"
+    },
+    "app/club/club/activities/task/GuildTaskReward.luac": {
+        "md5": "ee5e661b971f6471f31e0bf0374d1594"
+    },
+    "app/club/club/activities/task/GuildTaskRewardCell.luac": {
+        "md5": "652dcd899751995484cc1086c8b079cb"
+    },
+    "app/club/club/activities/task/GuildTaskRule.luac": {
+        "md5": "90cb39deb15f30d0386a41a49334d772"
+    },
+    "app/club/club/activities/task/GuildTaskTips.luac": {
+        "md5": "2a9f13fb1e11a706c4d68caed6eee401"
+    },
+    "app/club/club/activities/turnplate/TurnplateView.luac": {
+        "md5": "a325d6146950465efde47cfc33187f63"
+    },
+    "app/club/club/base/GuildBaseLayer.luac": {
+        "md5": "40b4060aa7ab2cd07eac3c40a32484e0"
+    },
+    "app/club/club/base/GuildBaseNode.luac": {
+        "md5": "0d0a9c6c407327dadda32398585f7821"
+    },
+    "app/club/club/base/GuildNodeEntity.luac": {
+        "md5": "6d8a14331be44174477d805bb0751894"
+    },
+    "app/club/club/cfgs/GuildModuleConfig.luac": {
+        "md5": "db828798b16777dd66f84096c0e0e00f"
+    },
+    "app/club/club/cfgs/GuildSkinsConfig.luac": {
+        "md5": "9abdfb0847bdc89751002d2a10374abc"
+    },
+    "app/club/club/event/GuildEvent.luac": {
+        "md5": "a5a23c99df990e14a6dee0bbfd490bf0"
+    },
+    "app/club/club/guildshieldWord/guild_ShieldWord.luac": {
+        "md5": "945fd1618bc6ba93ace80f2f01a35bf7"
+    },
+    "app/club/club/http/GuildHttp.luac": {
+        "md5": "44caea72de4934c91f85c2112387238e"
+    },
+    "app/club/club/http/GuildHttpEx.luac": {
+        "md5": "e4cb8168a5d721bced8bee5aff730da5"
+    },
+    "app/club/club/http/GuildHttpHacker.luac": {
+        "md5": "acbfcbe9408f20404d8c3fda3237547b"
+    },
+    "app/club/club/http/GuildMgr.luac": {
+        "md5": "0f1b72ccbf8a9fa66b12d0d254e9f7ea"
+    },
+    "app/club/club/http/GuildSocket.luac": {
+        "md5": "2efb50352480d1a56d0c92795efa7dac"
+    },
+    "app/club/club/logic/GuildLogic.luac": {
+        "md5": "a61595e32b0bba043d356c7b9de74f9c"
+    },
+    "app/club/club/logic/SkinLogic.luac": {
+        "md5": "4c86bf909c9797941617fc3678d61b49"
+    },
+    "app/club/club/manager/GuildModuleManager.luac": {
+        "md5": "16ea70c63256e37d0f384f4a6af3db98"
+    },
+    "app/club/club/manager/GuildSkinManager.luac": {
+        "md5": "e61c501e12d7f9fd8bd8309acae80344"
+    },
+    "app/club/club/manager/headManager/HeadManager.luac": {
+        "md5": "7d019052e87ac0f777c459b5e253c88a"
+    },
+    "app/club/club/manager/headManager/downloader.luac": {
+        "md5": "32c547eff042ee9014e11dee3ccc2119"
+    },
+    "app/club/club/model/GuildModel.luac": {
+        "md5": "da4d629f042396a5b9d174f2f44895eb"
+    },
+    "app/club/club/model/GuildRoomModel.luac": {
+        "md5": "26ce81f4a320e06d1df33b6a005a1b3c"
+    },
+    "app/club/club/readme.md": {
+        "md5": "596b96270ab3a24a660b5d74c4e685d4"
+    },
+    "app/club/club/regMgr/activityhHttpMgr.luac": {
+        "md5": "e6c91bf652169654e7add25ecffb5687"
+    },
+    "app/club/club/regMgr/regMgr.luac": {
+        "md5": "e3d4e176b79808af28ee4844c0cbf727"
+    },
+    "app/club/club/regMgr/regdataconfig.luac": {
+        "md5": "8c4682374e78e05250ecb84f53cc92ea"
+    },
+    "app/club/club/shader/GuildShaderManager.luac": {
+        "md5": "e59291d141806136ee4e81699901a96f"
+    },
+    "app/club/club/tools/GuildDowner.luac": {
+        "md5": "aafdba5a3963b452d4a3a8337b11f52d"
+    },
+    "app/club/club/tools/GuildLoadingView.luac": {
+        "md5": "64e717da7d92a687a1967a582138a1bc"
+    },
+    "app/club/club/tools/RichLabel.luac": {
+        "md5": "714cb017e4b6fa822881cbd9528b47e2"
+    },
+    "app/club/club/tools/Timer.luac": {
+        "md5": "a1be0bc905c7a965330dc43ba703e890"
+    },
+    "app/club/club/tools/UserDefault.luac": {
+        "md5": "fd04219de6f40744b04a73fa9a0c6145"
+    },
+    "app/club/club/views/account/GuildAccountAssets.luac": {
+        "md5": "0237fd5b648f5f9ff87b6c018b8bf4da"
+    },
+    "app/club/club/views/account/GuildAccountView.luac": {
+        "md5": "85c4b9c9322065f4876c83a46d0ccec3"
+    },
+    "app/club/club/views/account/GuildAccountViewCell.luac": {
+        "md5": "749b98c3b2fb3860103de8922911870a"
+    },
+    "app/club/club/views/account/GuildAccountViewListCell.luac": {
+        "md5": "c8664b3249855d1a95f16053cf0ad3ab"
+    },
+    "app/club/club/views/account/PFoldCell.luac": {
+        "md5": "52725d7c5460960c03662218b11006ee"
+    },
+    "app/club/club/views/account/PFoldView.luac": {
+        "md5": "a5771b74e4b1764cafc4aaee51ab7124"
+    },
+    "app/club/club/views/badge/GuildBadge.luac": {
+        "md5": "cf2bd8324dbde86efb9942a115f5b71b"
+    },
+    "app/club/club/views/baninroom/GuildBanInRoomAddCell.luac": {
+        "md5": "a07cf1f7af4956464076596b8b62d293"
+    },
+    "app/club/club/views/baninroom/GuildBanInRoomAddView.luac": {
+        "md5": "79de6053f01ee0161f2a510c912371e3"
+    },
+    "app/club/club/views/baninroom/GuildBanInRoomMemberCell.luac": {
+        "md5": "bdf116ba230dc1c9ee575ffc882ef90e"
+    },
+    "app/club/club/views/baninroom/GuildBanInRoomMemberInfoCell.luac": {
+        "md5": "4f4425b4c35cecf3a8d711c3f6f13a80"
+    },
+    "app/club/club/views/baninroom/GuildBanInRoomNoticeTips.luac": {
+        "md5": "c270cf6216f20677ca692f550993ec22"
+    },
+    "app/club/club/views/baninroom/GuildBanInRoomPanel.luac": {
+        "md5": "ecd466bca6ed07bae032e48e83e6c7c1"
+    },
+    "app/club/club/views/banotherinroom/GuildBanOtherInRoomAddView.luac": {
+        "md5": "80bb79f9f30be08223500a0a02cf8865"
+    },
+    "app/club/club/views/banotherinroom/GuildBanOtherInRoomCell.luac": {
+        "md5": "8bb26475227cde8bee264ede7d246931"
+    },
+    "app/club/club/views/banotherinroom/GuildBanOtherInRoomNoticeTips.luac": {
+        "md5": "141c41e518a2093e83841b50e3e918d2"
+    },
+    "app/club/club/views/banotherinroom/GuildBanOtherInRoomPanel.luac": {
+        "md5": "d01b0265c52b0874abafc6f1fd199598"
+    },
+    "app/club/club/views/beanshop/GuildBeanShopApplyCell.luac": {
+        "md5": "6e2a993f4576c8ae5cc68523b0b45828"
+    },
+    "app/club/club/views/beanshop/GuildBeanShopApplyPanel.luac": {
+        "md5": "bb55dabdb8816a4a905711fcda317dc2"
+    },
+    "app/club/club/views/beanshop/GuildBeanShopMainPanel.luac": {
+        "md5": "8208040800789202b2a704c18baec7a2"
+    },
+    "app/club/club/views/beanshop/GuildBeanShopNoticeTips.luac": {
+        "md5": "430754663dc82452b1103b3d935d15be"
+    },
+    "app/club/club/views/beanshop/GuildBeanShopOrderReview.luac": {
+        "md5": "05ffe3d6962da549990a073761ae7834"
+    },
+    "app/club/club/views/beanshop/GuildBeanShopOrderReviewCell.luac": {
+        "md5": "018aca3f92c3f2ebdf7ef18ba7c06851"
+    },
+    "app/club/club/views/beanshop/GuildBeanShopSetingCell.luac": {
+        "md5": "c96c8552f00e22fae7f99a555ab39bac"
+    },
+    "app/club/club/views/beanshop/GuildBeanShopSetingPanel.luac": {
+        "md5": "82ef50d641dc8f6b04511fe6886b82cc"
+    },
+    "app/club/club/views/callplay/GuildMainCallPlay.luac": {
+        "md5": "c77c381f12740cb4daf10f61ed323c7d"
+    },
+    "app/club/club/views/callplay/GuildMainCallPlayCell.luac": {
+        "md5": "8b7042ecdc9eba7200f55a7a90555b9c"
+    },
+    "app/club/club/views/callplay/GuildMainCallPlayTips.luac": {
+        "md5": "8ace89e61dc5f4657670ea91bc8f3c6b"
+    },
+    "app/club/club/views/contact/GuildContactView.luac": {
+        "md5": "4d9620b00a01be4077815946251c31a9"
+    },
+    "app/club/club/views/createclub/GuilcCreateClubCreateView.luac": {
+        "md5": "8edbd6e9e95fe6b70c1ca34ea3f5fca6"
+    },
+    "app/club/club/views/createclub/GuildCreateClubMainView.luac": {
+        "md5": "87df1b93fd8db3126acd769066b76da5"
+    },
+    "app/club/club/views/deskInvite/ClubDeskInviteData.luac": {
+        "md5": "51353c2afb70571f391b14c08158448f"
+    },
+    "app/club/club/views/deskInvite/ClubDeskInviteLayer.luac": {
+        "md5": "9ef79864499d7777d64e51dc63e16776"
+    },
+    "app/club/club/views/deskInvite/SwitchDeskTips.luac": {
+        "md5": "505cf243ed4a137a111fbe1d54069d20"
+    },
+    "app/club/club/views/deskInvite/SwitchOneBtnInviteLayer.luac": {
+        "md5": "818aa1a38ff2a883ea1dc4f1c51fd0a1"
+    },
+    "app/club/club/views/deskSwitch/ClubDeskSwitchLayer.luac": {
+        "md5": "45a746c65e69a2e0a2170b600298ba3e"
+    },
+    "app/club/club/views/deskSwitch/GameWatchSwitchDeskTips.luac": {
+        "md5": "f10a395ffa30b2d951d853df19efc8c7"
+    },
+    "app/club/club/views/dissolved/GuildConfirmDissView.luac": {
+        "md5": "8690631d708e61dd5951b07f5b6e03d5"
+    },
+    "app/club/club/views/dissolved/GuildSecConfirmDisWin.luac": {
+        "md5": "b4d68f3e1cc0ce2e8535c8b9177d2af1"
+    },
+    "app/club/club/views/effectivenumber/GuildENInvitedView.luac": {
+        "md5": "9907878f67bad04150509629a769031c"
+    },
+    "app/club/club/views/effectivenumber/GuildIdleInvitedView.luac": {
+        "md5": "5d8b5fecb08dc3d0bd7b74d95f1ed685"
+    },
+    "app/club/club/views/effectivenumber/zerotolow/GuildChangePlayView.luac": {
+        "md5": "94a776362ca02966e233cfbf8314b319"
+    },
+    "app/club/club/views/effectivenumber/zerotolow/GuildZeroToLowView.luac": {
+        "md5": "89530377d36f54870c7be4620a844bc6"
+    },
+    "app/club/club/views/evenopenrecord/GuildEvenOpenListCell.luac": {
+        "md5": "a81b046a50193668ede5643443816663"
+    },
+    "app/club/club/views/evenopenrecord/GuildEvenOpenRecordCell.luac": {
+        "md5": "f59c4d174a13362e7677cf780d6c12b5"
+    },
+    "app/club/club/views/evenopenrecord/GuildEvenOpenRecordView.luac": {
+        "md5": "b46153a9a6f596c8326dab9b744e1911"
+    },
+    "app/club/club/views/evenopenrecord/GuildEvenOpenSelector.luac": {
+        "md5": "e0002c411ec3d0150469e1aeca88a759"
+    },
+    "app/club/club/views/fastgroup/FastGroupCell.luac": {
+        "md5": "727f620f749ddc1d4bf19b32878a5c5d"
+    },
+    "app/club/club/views/fastgroup/FastGroupExtention.luac": {
+        "md5": "01f0fc4e319a19aaf1c7cc778af3c4b1"
+    },
+    "app/club/club/views/friendslist/GuildFriendListContact.luac": {
+        "md5": "2af1dbb896ec6d7f90e26bb428c80fd9"
+    },
+    "app/club/club/views/friendslist/GuildFriendListTip.luac": {
+        "md5": "1c99b94c031fe05eac36af0eb43c8154"
+    },
+    "app/club/club/views/friendslist/GuildFriendListUserInfo.luac": {
+        "md5": "13221de78e2efd741bf42cf712a19197"
+    },
+    "app/club/club/views/friendslist/GuildFriendsClubsCell.luac": {
+        "md5": "394547588fc1e23110239e4ea47a4e02"
+    },
+    "app/club/club/views/friendslist/GuildFriendsDeskCell.luac": {
+        "md5": "1557cf405d8b9f9c8091e3bc7e730e00"
+    },
+    "app/club/club/views/friendslist/GuildFriendsListView.luac": {
+        "md5": "5639544fff4d271e547c29dd7b35ea9f"
+    },
+    "app/club/club/views/friendslist2/GuildHallFriendClubListCell.luac": {
+        "md5": "9abf72b79c256b72edec010834976ba4"
+    },
+    "app/club/club/views/friendslist2/GuildHallFriendClubsCell.luac": {
+        "md5": "cfd90d02c6e669bb3f814fc5bf9c5685"
+    },
+    "app/club/club/views/friendslist2/GuildHallFriendDeskCell.luac": {
+        "md5": "d96a5abc964a7acbdaddc9f3b85af37b"
+    },
+    "app/club/club/views/friendslist2/GuildHallFriendInfo.luac": {
+        "md5": "9973d2706d667381dbb163acb3c5ef59"
+    },
+    "app/club/club/views/friendslist2/GuildHallFriendPrivacy.luac": {
+        "md5": "d574b12bf12a4097c5588630618fb6d7"
+    },
+    "app/club/club/views/friendslist2/GuildHallFriendsCell.luac": {
+        "md5": "492bd96a0a74fe17bdca3c8f028f579f"
+    },
+    "app/club/club/views/friendslist2/GuildHallFriendsListView.luac": {
+        "md5": "5bb12f786ae3f8a96e52d4f9bf9d9d38"
+    },
+    "app/club/club/views/friendslist2/GuildHallInvitedView.luac": {
+        "md5": "c139280a4fb3d187b99b809f99e9685c"
+    },
+    "app/club/club/views/friendslist2/GuildHallPlayerInfo.luac": {
+        "md5": "10eb188287346b32b7ce3f24a5514d03"
+    },
+    "app/club/club/views/gamewatchapplyjoinclub/GuildApplyJoinAdminTips.luac": {
+        "md5": "f56ee1956a419dc708d3072a572e42c6"
+    },
+    "app/club/club/views/gamewatchapplyjoinclub/GuildApplyJoinBtnView.luac": {
+        "md5": "81ec29a33560e4f935f3eb0fa8c6bde4"
+    },
+    "app/club/club/views/gamewatchapplyjoinclub/GuildApplyJoinContact.luac": {
+        "md5": "cf267e799cde5af43a5fe20ea48ab8e0"
+    },
+    "app/club/club/views/gamewatchapplyjoinclub/GuildApplyJoinProCell.luac": {
+        "md5": "bb2deadf7d562b03a022c02230d1941c"
+    },
+    "app/club/club/views/gamewatchapplyjoinclub/GuildApplyJoinProgress.luac": {
+        "md5": "f46e07eb9cc86a933cf09d0d4bdb48eb"
+    },
+    "app/club/club/views/gamewatchapplyjoinclub/GuildApplyJoinSucc.luac": {
+        "md5": "89af5f61a297ed8c6413f10a1d61a2f7"
+    },
+    "app/club/club/views/generalFamAndFriCircle/GuildGeneralAccountManagement.luac": {
+        "md5": "7ccf4829e001ab7ed0d06d94417ca253"
+    },
+    "app/club/club/views/generalFamAndFriCircle/GuildGeneralAccountManagementOption.luac": {
+        "md5": "1983b24544265d2f3d4c47269856c76f"
+    },
+    "app/club/club/views/generalFamAndFriCircle/GuildGeneralAccountManagementOptionB.luac": {
+        "md5": "db30eb7590752d1b28842c550cece486"
+    },
+    "app/club/club/views/generalFamAndFriCircle/GuildGeneralBasicSetting.luac": {
+        "md5": "949e0945c078601ef2ca0290d8b3949b"
+    },
+    "app/club/club/views/generalFamAndFriCircle/GuildGeneralDisbandNoticeTips.luac": {
+        "md5": "63a42cb6765d4c1cdbc446fc6dea0ad4"
+    },
+    "app/club/club/views/generalFamAndFriCircle/GuildGeneralManagerTransfer.luac": {
+        "md5": "ec66b5d2e0c923b849bac3795e5cf02a"
+    },
+    "app/club/club/views/generalFamAndFriCircle/GuildGeneralModifyInterface.luac": {
+        "md5": "23f59da4e29684f727f14a78f22f99b5"
+    },
+    "app/club/club/views/generalFamAndFriCircle/GuildGeneralModifyWx.luac": {
+        "md5": "3d18f6f7eb77abc7b15cdfd7095fc47f"
+    },
+    "app/club/club/views/generalFamAndFriCircle/GuildGeneralTransferNoticeTips.luac": {
+        "md5": "97f52fe21323a83d74e535c2d592c3d5"
+    },
+    "app/club/club/views/guide/GuildGameWatchGuide.luac": {
+        "md5": "81dab32050f5dac8b65e539c98ac4c51"
+    },
+    "app/club/club/views/guildhall/GuildAdSpace.luac": {
+        "md5": "13239ebbb6ef8dfdb4473bcf1583d745"
+    },
+    "app/club/club/views/guildhall/GuildBottomButton.luac": {
+        "md5": "5ff1e5687b251b8dbefd9f02c28a9d18"
+    },
+    "app/club/club/views/guildhall/GuildHall.luac": {
+        "md5": "3e33bd7de98fdc63a7431c349de2bd59"
+    },
+    "app/club/club/views/guildhall/GuildMarquee.luac": {
+        "md5": "f7bfc7aebf363b71efc21c9a93503c7a"
+    },
+    "app/club/club/views/guildhall/GuildRoomCell.luac": {
+        "md5": "6ac55306c1b5efa3e18c405c365ac2e3"
+    },
+    "app/club/club/views/guildhall/GuildRoomDescPop.luac": {
+        "md5": "582b3b9798e9350ec8e0ea1b445186ab"
+    },
+    "app/club/club/views/guildhall/GuildRoomList.luac": {
+        "md5": "3e8671afcd8ead56f70dd6c9ab9750ee"
+    },
+    "app/club/club/views/guildhall/GuildRoomShow.luac": {
+        "md5": "6087ad7b20f39a97812b4a1106179e89"
+    },
+    "app/club/club/views/hallpopview/Guild_v2_GuildHallFriendsPurchaseCardTips.luac": {
+        "md5": "f6c46d95e8f673fbb390e3a4a5822e98"
+    },
+    "app/club/club/views/hallpopview/Guild_v2_NoCircleAgentCreateTips.luac": {
+        "md5": "dd7534c2e1dabae4273e6773dd3937f9"
+    },
+    "app/club/club/views/hallpopview/Guild_v2_NoCircleAgentIconShow.luac": {
+        "md5": "ffeb60dcd349df4a6cff9b6aee9b0c9b"
+    },
+    "app/club/club/views/hallpopview/Guild_v2_NoCircleAgentInviteTips.luac": {
+        "md5": "8c1fed7ea40789c1c7ee5b0f7f2e9e6b"
+    },
+    "app/club/club/views/invite/GuildInviewView.luac": {
+        "md5": "5d3d119f84322474632d571bf9c0dafb"
+    },
+    "app/club/club/views/invite/GuildInviteFriendsView.luac": {
+        "md5": "3c17d9de6fafc786edb245d0f47c9a39"
+    },
+    "app/club/club/views/invite/GuildInviteRoomCell.luac": {
+        "md5": "94ca8d6555d8b9d1d53472df01e9a53c"
+    },
+    "app/club/club/views/invite/GuildInvitedToRoomView.luac": {
+        "md5": "7363c32f87275de7fef8c2c794d817c2"
+    },
+    "app/club/club/views/invite/GuildRoomDetailView.luac": {
+        "md5": "0a3885695d92734c2c0c3fc2f669e848"
+    },
+    "app/club/club/views/leftlist/GuildMainJoinWx.luac": {
+        "md5": "ef760fafd34b2434512b39f1b29cbdb0"
+    },
+    "app/club/club/views/leftlist/GuildMainLeftList.luac": {
+        "md5": "04a40b71f1d0e6f8ef32ab9a64047da9"
+    },
+    "app/club/club/views/leftlist/GuildMainLeftListCell.luac": {
+        "md5": "179ab77c53fcaa84128a87d2a650dce3"
+    },
+    "app/club/club/views/leisureclose/GuildCloseLeisureHelp.luac": {
+        "md5": "65186fec31638f407fffdd899b58db57"
+    },
+    "app/club/club/views/leisureclose/GuildLeisureCloseCreateFrame.luac": {
+        "md5": "e157fe048699131503a84cd14fd88cb4"
+    },
+    "app/club/club/views/majorleague/playmanager/GuildPlayCellView.luac": {
+        "md5": "7df3b0ffb42be144ee6e6a0854e73e63"
+    },
+    "app/club/club/views/majorleague/playmanager/GuildPlayChangeNameView.luac": {
+        "md5": "c44270493d642d3ab3966ffb5f3438b5"
+    },
+    "app/club/club/views/majorleague/playmanager/GuildPlayGuildCellView.luac": {
+        "md5": "42bf9749d2931abec87ed03548ac84e3"
+    },
+    "app/club/club/views/majorleague/playmanager/GuildPlayManaer.luac": {
+        "md5": "37a2257f2500f63bf714690e06d1487a"
+    },
+    "app/club/club/views/member/GuildMemberGuide.luac": {
+        "md5": "89a28f3a640fc18a1cad4dcab0cf3699"
+    },
+    "app/club/club/views/member/GuildMemberInfoView.luac": {
+        "md5": "1f2d8a402142716aac610c0dc249ab57"
+    },
+    "app/club/club/views/member/GuildMemberJoinAndExit.luac": {
+        "md5": "2cd78d800bf02329ed29df44001b71bd"
+    },
+    "app/club/club/views/member/GuildMemberListCell.luac": {
+        "md5": "ebed5d187a53b672668d7f3cca810895"
+    },
+    "app/club/club/views/member/GuildMemberListPanel.luac": {
+        "md5": "a65f136635eb7947a3164b3720ae7d82"
+    },
+    "app/club/club/views/member/GuildMemberMainView.luac": {
+        "md5": "ebfe65100e5fc07eff95c3898ae46018"
+    },
+    "app/club/club/views/member/GuildMemberOpenSelect.luac": {
+        "md5": "46dabe51829ad0fb825fb5db193d6bb2"
+    },
+    "app/club/club/views/member/GuildMemberSetWeiXin.luac": {
+        "md5": "b390b6a99eafcc2be475e03fb00b740a"
+    },
+    "app/club/club/views/member/GuildMemberShieldCell.luac": {
+        "md5": "bc82ee883326965208315e2233308b49"
+    },
+    "app/club/club/views/member/GuildMemberShieldInviteView.luac": {
+        "md5": "5fc7c7a2a24cc3b4d149254a46a4383c"
+    },
+    "app/club/club/views/member/GuildMemberShieldPanel.luac": {
+        "md5": "e00334f4d48750d45aac330abb1232ae"
+    },
+    "app/club/club/views/optrecord/GuildOptRecord.luac": {
+        "md5": "d8d93d63ebc4a1974b36298867c7c83f"
+    },
+    "app/club/club/views/optrecord/GuildOptRecordCell.luac": {
+        "md5": "341858c67c242fbfbd9bad21875a1aec"
+    },
+    "app/club/club/views/partner/GuildAddPartnerView.luac": {
+        "md5": "ae7d3c778fc62bae2bb76db4355d0166"
+    },
+    "app/club/club/views/partner/GuildAddPartnerViewCell.luac": {
+        "md5": "7f8f392683c947c34949e77e6db89213"
+    },
+    "app/club/club/views/partner/GuildPartnerApplyQuit.luac": {
+        "md5": "647aae67aceaca8e9c21e63749c10041"
+    },
+    "app/club/club/views/partner/GuildPartnerDealQuit.luac": {
+        "md5": "7f62d1f30e02aac886f8f9624a5446e4"
+    },
+    "app/club/club/views/partner/GuildPartnerInfo.luac": {
+        "md5": "18a88d84639f2e0d36034b3e11b848fc"
+    },
+    "app/club/club/views/partner/GuildPartnerInviteAndImport.luac": {
+        "md5": "ed538e8d4df0687a69b164bcb50b1b93"
+    },
+    "app/club/club/views/partner/GuildPartnerNoticeTips.luac": {
+        "md5": "db387c205197e6893df4d9e16c139730"
+    },
+    "app/club/club/views/partner/GuildPartnerRankingRule.luac": {
+        "md5": "0a6bd7b43ca7eb9fe8cc7b00583b2590"
+    },
+    "app/club/club/views/partner/GuildPartnerView.luac": {
+        "md5": "f0b90190eabd3f90de45aea34702b88f"
+    },
+    "app/club/club/views/partner/GuildPartnerViewCell.luac": {
+        "md5": "deab849dd7e5af77ca311ac6ad2e1c12"
+    },
+    "app/club/club/views/partner/GuildRecallPartnerAuthority.luac": {
+        "md5": "bb0f54b1193361cbafe613fb8c22a093"
+    },
+    "app/club/club/views/partner/GuildRecallPartnerAuthorityMsg.luac": {
+        "md5": "9e332cb2f647ab0696e0272ddd307891"
+    },
+    "app/club/club/views/partner/GuildSetPartnerAuthority.luac": {
+        "md5": "49495eae7668e59ec2a2541773bee3e1"
+    },
+    "app/club/club/views/partner/invite/GuildPartnerGuildCell.luac": {
+        "md5": "abf78c270ac0a33d2f10a6d9acae69d2"
+    },
+    "app/club/club/views/partner/invite/GuildPartnerInvitedView.luac": {
+        "md5": "18bbf7218f2d8a2d65d8414d7f190661"
+    },
+    "app/club/club/views/partner/invite/GuildPartnerSearchList.luac": {
+        "md5": "637a0d4a6021ae9a32a4c108bfae5cce"
+    },
+    "app/club/club/views/partner/invite/GuildPartnerUserList.luac": {
+        "md5": "a14c18961b9e290a19c88ed3959b7650"
+    },
+    "app/club/club/views/partner/invite/GuildPattnerInviteView.luac": {
+        "md5": "1e02c2b4287701a99f5c8ed35e220d05"
+    },
+    "app/club/club/views/personalsecretary/Guild_v2_GuildPersonalSecretaryTips.luac": {
+        "md5": "304acf6a08ef13993092b0ba14d84e7f"
+    },
+    "app/club/club/views/quickjump/GuildQuickJumpPanel.luac": {
+        "md5": "7abe9fd998a8ca9ae51d22201082220d"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecommendApplyJoinView.luac": {
+        "md5": "7b3a53da76be6855632023ce9e21f338"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecommendInvitedView.luac": {
+        "md5": "24a0fd903e1144840d48ca748fb8af62"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecommendQinYouCell.luac": {
+        "md5": "c90598d868d9ac2f9ddf0bb825864dcd"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecommendQinYouGameplayCell.luac": {
+        "md5": "a4ced57b5c8e628be92415d747abfb58"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecommendQinYouGameplayPop.luac": {
+        "md5": "83fdfe00b7d2ec25f00ecab5bcdc1dd6"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecommendQinYouLowHighUserCell.luac": {
+        "md5": "b8df393b42f7ce945b04de9b753e07db"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecommendQinYouPanel.luac": {
+        "md5": "bdcc3d08500c21b40980f0131ffd07b1"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecommendQinYouRewardCell.luac": {
+        "md5": "4fc6c9c0d701051da3132c8e6f9c873e"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecommendQinYouRewardPanel.luac": {
+        "md5": "2fa62b577598c248624ba366b7b3ab8a"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecommendQinYouTips.luac": {
+        "md5": "5b1c4ff9c8aaa77f6efdd6628b455d36"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecommendQinYouUserCell.luac": {
+        "md5": "1f3913fb73872b8ca9c3afb11138e5b7"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecruitContact.luac": {
+        "md5": "bdb869a5c2fddf79be90be87efce7026"
+    },
+    "app/club/club/views/recommendqinyou/GuildRecruitHistoryView.luac": {
+        "md5": "87062214fe5898ae369b8d22ff877346"
+    },
+    "app/club/club/views/recommendroom/GuildRecommendRoomCell.luac": {
+        "md5": "28b9c48f5c2793323923af07697c4d37"
+    },
+    "app/club/club/views/recommendroom/GuildRecommendRoomView.luac": {
+        "md5": "a5da2327f79f1777a97941f96f579643"
+    },
+    "app/club/club/views/record/GuildRecords.luac": {
+        "md5": "c4231c0fc9ed9b46f1c5e120ea58ac4f"
+    },
+    "app/club/club/views/record/GuildRecordsCell.luac": {
+        "md5": "03955e7684500a1a9d74110b59f315ab"
+    },
+    "app/club/club/views/recorddisband/GuildRecordsDisband.luac": {
+        "md5": "4942419a08d8ac52b442ebdda2085a3a"
+    },
+    "app/club/club/views/recorddisband/GuildRecordsDisbandCell.luac": {
+        "md5": "0e56ba9d0432198ab07aea9825ae7f9a"
+    },
+    "app/club/club/views/recordpartnerstatistics/GuildRecordsPartnerStatistics.luac": {
+        "md5": "e0bad2b96bd3141dafb2ab186db932b8"
+    },
+    "app/club/club/views/recordpartnerstatistics/GuildRecordsPartnerStatisticsCell.luac": {
+        "md5": "d1b1404b00a129db93a444e9910244b8"
+    },
+    "app/club/club/views/recordpersonaldetails/GuildRecordPersonalDetails.luac": {
+        "md5": "1aa39ddb51dd13f48e9d3d4aaa0efec8"
+    },
+    "app/club/club/views/recordpersonaldetails/GuildRecordPersonalDetailsCell.luac": {
+        "md5": "faa80dc0e93b287b780ff27cffbdcc79"
+    },
+    "app/club/club/views/recordselecttime/GuildPartnerSelector.luac": {
+        "md5": "80235d51c8db16dca510be65db6445a9"
+    },
+    "app/club/club/views/recordselecttime/GuildRecordRankingPartnerSelector.luac": {
+        "md5": "e9eb35c2802959b50bc773aaef430123"
+    },
+    "app/club/club/views/recordselecttime/GuildRecordRankingScoreSelector.luac": {
+        "md5": "4c043216eb075f682c5c90bf31ff3fa4"
+    },
+    "app/club/club/views/recordselecttime/GuildRecordRankingSelectFilter.luac": {
+        "md5": "a84bc61758e418b1145d7411f17eb823"
+    },
+    "app/club/club/views/recordselecttime/GuildRecordRankingSelectTime.luac": {
+        "md5": "60452a4c099816fbae8f94f40026d4dd"
+    },
+    "app/club/club/views/recordselecttime/GuildRecordScoreSelector.luac": {
+        "md5": "700c18d447e3e200ac9e91824029606c"
+    },
+    "app/club/club/views/recordselecttime/GuildRecordSelectTime.luac": {
+        "md5": "0d9c015189c2fc8b04c4885fa321f61f"
+    },
+    "app/club/club/views/recordselecttime/GuildRecordStatisticsSelectTime.luac": {
+        "md5": "ef05d9d0d597ce8bdd5e0e3dffe0ddf5"
+    },
+    "app/club/club/views/recordselecttime/GuildRecordStatisticsSelectorScoreClub.luac": {
+        "md5": "57c8dcecd836607333fc982da2d447ed"
+    },
+    "app/club/club/views/recordselecttime/GuildRecordStatisticsSelectorScorePartner.luac": {
+        "md5": "974a6463c4db80e26ba3724b1f79b99d"
+    },
+    "app/club/club/views/recordstatistics/PartnerRecord.luac": {
+        "md5": "84c737badde3b256aa4c6465ad378bf1"
+    },
+    "app/club/club/views/recordstatistics/PartnerRecordCell.luac": {
+        "md5": "4f96cdd32d983c0e3b1ac0216c22be2b"
+    },
+    "app/club/club/views/recordstatistics/PartnerRecordTips.luac": {
+        "md5": "bb72ba5269405d0eac56441051442c57"
+    },
+    "app/club/club/views/recordstatistics/RecordDetails.luac": {
+        "md5": "e23961a94f71196a81865d2e8c894d1c"
+    },
+    "app/club/club/views/recordstatistics/RecordStatistic.luac": {
+        "md5": "d3d043bbcc3a8c562c6c941c6fd50088"
+    },
+    "app/club/club/views/recordstatistics/RecordStatisticCell.luac": {
+        "md5": "009df223d9f0d9fc20564b4de7dcdb7b"
+    },
+    "app/club/club/views/recordstatistics/RecordStatisticCell1.luac": {
+        "md5": "06778e618a2799c0a94d70fce322650b"
+    },
+    "app/club/club/views/recordstatistics/RecordTimeSearch.luac": {
+        "md5": "2a1608b0fdc4588211c3944070fd66c3"
+    },
+    "app/club/club/views/recordstatistics/RecordTimeSelector.luac": {
+        "md5": "ef970f52213f8f83fec1fd04b7be1a54"
+    },
+    "app/club/club/views/redpacket/RedPacketGuide.luac": {
+        "md5": "796ad17aa00fdc14f609cd1f8723c95c"
+    },
+    "app/club/club/views/redpacket/RedPacketHelp.luac": {
+        "md5": "5e38d872e0fa43599f2eb4736004aa0a"
+    },
+    "app/club/club/views/redpacket/RedPacketHistoryCell.luac": {
+        "md5": "b9fb5476c6208d142697098939ae850c"
+    },
+    "app/club/club/views/redpacket/RedPacketInviteTips.luac": {
+        "md5": "19101f4be4f3c60799cd3f1664ad665f"
+    },
+    "app/club/club/views/redpacket/RedPacketTaskView.luac": {
+        "md5": "eb7dd711fcdf3f7dc8bcc45ed7ca043d"
+    },
+    "app/club/club/views/redpacket/RedPacketTipView.luac": {
+        "md5": "a11fdcca0d90eae88c92cf180f3ca3e7"
+    },
+    "app/club/club/views/redpacket/RedPacketView.luac": {
+        "md5": "7479603759c05b8a4c0c4fa6477db52c"
+    },
+    "app/club/club/views/rewardofjoin/GuildRewardTipOfJoin.luac": {
+        "md5": "b3fd9f5e3e50d2cbf735894243253298"
+    },
+    "app/club/club/views/share/GuildPutForwardShareView.luac": {
+        "md5": "bd015a4f16929a7ad142c59019129311"
+    },
+    "app/club/club/views/share/GuildShareView.luac": {
+        "md5": "e7b886996f6dcdc56a737242f0678101"
+    },
+    "app/club/club/views/sidebar/GuildSidBarData.luac": {
+        "md5": "e3f6a366bf813b8d2db4f8e733db360b"
+    },
+    "app/club/club/views/sidebar/GuildSidBarInviteView.luac": {
+        "md5": "749cfa4b91ec299e055e8af9b06a2904"
+    },
+    "app/club/club/views/sidebar/GuildSidBarOneBtnInviteView.luac": {
+        "md5": "070ff9874ed10e91fab6207f28ef865e"
+    },
+    "app/club/club/views/sidebar/GuildSidBarTips.luac": {
+        "md5": "f70072d7bdbfa729fa7f70815583eec6"
+    },
+    "app/club/club/views/sidebar/GuildSidBarWatchTips.luac": {
+        "md5": "ed8ecbd3903a6c0ee163cdcdb04bfc6d"
+    },
+    "app/club/club/views/sidebar/GuildSidBarWatchView.luac": {
+        "md5": "dc6625cb5743a7fbfbd8879399fde364"
+    },
+    "app/club/club/views/sidebarinvite/GuildFriendHeadSprTips.luac": {
+        "md5": "ddc2b8d2153d1da79c985c9124658baa"
+    },
+    "app/club/club/views/sidebarinvite/GuildSidebarInviteData.luac": {
+        "md5": "6db46a29a34b56de31560841b00e890f"
+    },
+    "app/club/club/views/sidebarinvite/GuildSidebarInviteLayer.luac": {
+        "md5": "7bbb0b741482cb98e85ec02cb54153a4"
+    },
+    "app/club/club/views/sidebarinvite/GuildSwitchDeskTips.luac": {
+        "md5": "bacb7b3a9b49cfe984bc42cb90487418"
+    },
+    "app/club/club/views/sidebarinvite/GuildSwitchOneBtnInviteLayer.luac": {
+        "md5": "c33ac901f1df46ce61902df882c18bc6"
+    },
+    "app/club/club/views/sidebarwatch/GuildSidebarWatchLayer.luac": {
+        "md5": "d3fb3c27098a7b9748a2cfd77b59068e"
+    },
+    "app/club/club/views/sidebarwatch/GuildSidebarWatchSwitchDeskTips.luac": {
+        "md5": "86b2f22e5831bbd71441191510192105"
+    },
+    "app/club/club/views/smallhut/GuildSmallHutAMCell.luac": {
+        "md5": "7b014833ae068492e1a80c04e6041d33"
+    },
+    "app/club/club/views/smallhut/GuildSmallHutAddMember.luac": {
+        "md5": "1a01ae79b486a5a541f06599408422eb"
+    },
+    "app/club/club/views/smallhut/GuildSmallHutCell.luac": {
+        "md5": "eb147d5f281002f11c611eed2a38ce27"
+    },
+    "app/club/club/views/smallhut/GuildSmallHutGuideView.luac": {
+        "md5": "00a18d447c98fdbe5ccf71e4b078efc2"
+    },
+    "app/club/club/views/smallhut/GuildSmallHutView.luac": {
+        "md5": "098da887b940459e0e85b40629066e82"
+    },
+    "app/club/club/views/smalltable/Gameplaymanagement.luac": {
+        "md5": "1cf1301929147fc98e21bea0b3850975"
+    },
+    "app/club/club/views/smalltable/GameplaymanagementGuild.luac": {
+        "md5": "12820bb89d788a425a15e681de64be2c"
+    },
+    "app/club/club/views/smalltable/Gameplaymanagementcell.luac": {
+        "md5": "36f8372cd867d54d0650e6c3249aad4a"
+    },
+    "app/club/club/views/smalltable/GuildSmallTableCell.luac": {
+        "md5": "c1730b4b8d569413c8ba92f574c74f37"
+    },
+    "app/club/club/views/smalltable/GuildSmallTableDesPop.luac": {
+        "md5": "ec4092129ed6467e5ea6b4642765df8b"
+    },
+    "app/club/club/views/smalltable/GuildSmallTableHall.luac": {
+        "md5": "e0b2631e951a0a4d845aef92196878b0"
+    },
+    "app/club/club/views/smalltable/GuildSmallTableList.luac": {
+        "md5": "cfe300034331f7877f8f862470b8f4f3"
+    },
+    "app/club/club/views/smalltable/GuildSmallTableUseTips.luac": {
+        "md5": "22efedb897cd8310ae327a214f91dddc"
+    },
+    "app/club/club/views/smalltable/GuildSystemQucikRecommedTips.luac": {
+        "md5": "0aa959cd51c1a9947a9caece0a368f3b"
+    },
+    "app/club/club/views/smalltable/SmallTableChangeColor.luac": {
+        "md5": "9198890c1a5031f3bbba6dcb63e2823c"
+    },
+    "app/club/club/views/smalltable/smallTableGuild.luac": {
+        "md5": "0b1085508df97d8d8e047af637f1ae93"
+    },
+    "app/club/club/views/top/GuildMainTop.luac": {
+        "md5": "26274ea1c40c5d26e2061965b655418d"
+    },
+    "app/club/club/views/top/GuildTopView.luac": {
+        "md5": "7523701277bf12f7fb7a415d787bcdb5"
+    },
+    "app/club/club/views/wechat/GuildWeChatView.luac": {
+        "md5": "e79ab09016ecb0a5680f596c4b9734bc"
+    },
+    "app/club/club/views/xapopview/Guild_v2_FriendClubRecommendView.luac": {
+        "md5": "2b5623d66ac62846ca314a3325979ff1"
+    },
+    "app/club/club/widget/GuildPlayerHeadSprite.luac": {
+        "md5": "3ef0fbce4216379441b1c586512c5834"
+    },
+    "app/club/club/widget/GuildTableView.luac": {
+        "md5": "819c2e19d29772452907e1b406351a0f"
+    },
+    "app/club/club/widget/GuildTableViewBase.luac": {
+        "md5": "9be1ebfac6fecea8099486d6a3f69132"
+    },
+    "packcfg.json": {
+        "md5": "2bdb7e0d83c3ce9c11227761bae0e7d4"
+    },
+    "res/club/GuildAdvistoryTips.csb": {
+        "md5": "934fac14a53a5392784aeb8bd1b2982a"
+    },
+    "res/club/Guild_v2_CreateHelp.csb": {
+        "md5": "f57396602412bdb7e04a5397706d4869"
+    },
+    "res/club/Guild_v2_GuildDetailed.csb": {
+        "md5": "087096fb1b1f11a5e4fb57192930001b"
+    },
+    "res/club/Guild_v2_GuildDetailedCell.csb": {
+        "md5": "a06f5930537c8dbf4f1c4ad565d5f23d"
+    },
+    "res/club/Guild_v2_GuildDetailedPlayerCell.csb": {
+        "md5": "90972825d2903acf146f7469d6390543"
+    },
+    "res/club/Guild_v2_GuildHelp.csb": {
+        "md5": "c3399d4c7a92be772dd72c6de2c7805e"
+    },
+    "res/club/Guild_v2_GuildHistory.csb": {
+        "md5": "215bd3be18fd5109b53098f0a85cb558"
+    },
+    "res/club/Guild_v2_GuildHistoryCell.csb": {
+        "md5": "f822a63e88a109476d09fd3989c54ad2"
+    },
+    "res/club/Guild_v2_GuildHistoryDetailCell.csb": {
+        "md5": "b844e7d97b52526798cf4376c886bbe6"
+    },
+    "res/club/Guild_v2_GuildHistoryDetailed.csb": {
+        "md5": "c7e2f1054e0ec6616eb5739e737e0cc9"
+    },
+    "res/club/Guild_v2_GuildHistoryHelp.csb": {
+        "md5": "490c384cdb806fc28c4a41fd8297f2e7"
+    },
+    "res/club/Guild_v2_GuildHistoryListCell.csb": {
+        "md5": "b3fe2707b23581e3277025181d54ee7f"
+    },
+    "res/club/Guild_v2_GuildHistoryRStatistics.csb": {
+        "md5": "0b5a1215804af94817fc5f1a6f98ee41"
+    },
+    "res/club/Guild_v2_GuildHistoryRanking.csb": {
+        "md5": "35b72554de0c8fd8632619d71ac5822d"
+    },
+    "res/club/Guild_v2_GuildHistoryRankingCell.csb": {
+        "md5": "5d299cad2daa6a9c9faa3b2898eb00f7"
+    },
+    "res/club/Guild_v2_GuildHistoryRecord.csb": {
+        "md5": "68ed7cc8ef893d2ed11821d4c832bfdb"
+    },
+    "res/club/Guild_v2_GuildHistoryStatics.csb": {
+        "md5": "c5e8bda2e4882fdb7602fc18bb2a0711"
+    },
+    "res/club/Guild_v2_GuildHistoryStaticsNode.csb": {
+        "md5": "c149cf2bbb685c355a59fc08d6fa6905"
+    },
+    "res/club/Guild_v2_GuildInvite.csb": {
+        "md5": "d34c4200c53adf808e827c175e012abf"
+    },
+    "res/club/Guild_v2_GuildInviteCell.csb": {
+        "md5": "66fb1dd8881491719d8d1ad3cfacadf9"
+    },
+    "res/club/Guild_v2_GuildInviteDetailed.csb": {
+        "md5": "a460e6ab4716242bae9a4bb5de967689"
+    },
+    "res/club/Guild_v2_GuildInviteDetailedCell.csb": {
+        "md5": "a6b0f459830f6f53695b8ef760c5f8d2"
+    },
+    "res/club/Guild_v2_GuildInvited.csb": {
+        "md5": "55516020e3ea3574f0a480a57e3dce28"
+    },
+    "res/club/Guild_v2_GuildJoinHelp.csb": {
+        "md5": "fc6bb47e1377491bc539da227ba33912"
+    },
+    "res/club/Guild_v2_GuildJoinNode.csb": {
+        "md5": "f1caccc3e9ee10537495b609fd40cd25"
+    },
+    "res/club/Guild_v2_GuildJoinWx.csb": {
+        "md5": "142f0c1ab5db5cfb64b3163459eda8df"
+    },
+    "res/club/Guild_v2_GuildMainList.csb": {
+        "md5": "d17abe86ca7c9fa618d35542f7dbb17b"
+    },
+    "res/club/Guild_v2_GuildMainListCell.csb": {
+        "md5": "df65f52a525a590f5b771e2b17c6d93c"
+    },
+    "res/club/Guild_v2_GuildMainListCellXpz.csb": {
+        "md5": "3e77fee1af11ede4e40ca7a8474d2513"
+    },
+    "res/club/Guild_v2_GuildMainPanel.csb": {
+        "md5": "b7f264d569d5217cec0e262a2d55d07e"
+    },
+    "res/club/Guild_v2_GuildMainTopNode.csb": {
+        "md5": "a9e2c3225747cc3ae1dac0c80434e93b"
+    },
+    "res/club/Guild_v2_GuildManageCell.csb": {
+        "md5": "4d5310514088abb2a64f68ff6f476542"
+    },
+    "res/club/Guild_v2_GuildManager.csb": {
+        "md5": "1161e4b1a7a3adfb5a6212e990338787"
+    },
+    "res/club/Guild_v2_GuildManagerGeneral.csb": {
+        "md5": "e7d23e3728dd03b6bba99492c8dbea53"
+    },
+    "res/club/Guild_v2_GuildMember.csb": {
+        "md5": "f12ff4023f3529f934eaecda0ea700a9"
+    },
+    "res/club/Guild_v2_GuildMemberCell.csb": {
+        "md5": "a54f7c25e4220323d4712c197217481c"
+    },
+    "res/club/Guild_v2_GuildMemberCell1.csb": {
+        "md5": "25f028dc5ff326574459c3a3f9e3275a"
+    },
+    "res/club/Guild_v2_GuildRefuseList.csb": {
+        "md5": "4650db3335075cad43559e3219edebb1"
+    },
+    "res/club/Guild_v2_GuildRefuseListCell.csb": {
+        "md5": "7705bb2682ef53871f7a9ec2b355439c"
+    },
+    "res/club/Guild_v2_GuildReset.csb": {
+        "md5": "60f40430c83200220b9bfe6fd16a9ddd"
+    },
+    "res/club/Guild_v2_GuildRoomCell.csb": {
+        "md5": "13c18139ed0cfc9f3c7c7e26ba141dd2"
+    },
+    "res/club/Guild_v2_GuildRoomDescPop.csb": {
+        "md5": "8aac5a4bd0221169fe13286dd083ce60"
+    },
+    "res/club/Guild_v2_GuildRoomNode.csb": {
+        "md5": "ec5765b7404ebafe57b218eead795c67"
+    },
+    "res/club/Guild_v2_NoticeTips.csb": {
+        "md5": "9fca3c61038cd4357f1a504e8f3f2747"
+    },
+    "res/club/Guild_v2_NoticeTipsAnother.csb": {
+        "md5": "8863728a5af653e2a3f03248b2782efa"
+    },
+    "res/club/animation/GuildHongBao1.csb": {
+        "md5": "cbaa9a3afa1a4112b8c35f4666c3b769"
+    },
+    "res/club/animation/GuildHongBao2.csb": {
+        "md5": "02ddc2ba9dfe1202ffcc39548b0c951d"
+    },
+    "res/club/animation/GuildHongBao3.csb": {
+        "md5": "d518b3fa8ca3bc9f703e3c5171abcf73"
+    },
+    "res/club/animation/GuildHongBao4.csb": {
+        "md5": "1250778f3ac812a57bdfe4f3c14a9527"
+    },
+    "res/club/animation/GuildHuaDong.csb": {
+        "md5": "24bab9a86bedbca998196ac2c6cb0346"
+    },
+    "res/club/animation/GuildLoading.csb": {
+        "md5": "048b42ed94a561ca80d13812fb4f8cb4"
+    },
+    "res/club/animation/GuildRewardHongBao.csb": {
+        "md5": "bef35d80471af8c1fae5ab26f762f935"
+    },
+    "res/club/animation/GuildRewardRedPacket.csb": {
+        "md5": "c4b8fa8f5086199f1d1b14ab6f32901f"
+    },
+    "res/club/animation/Hongbao_Open/HongBao_Open_1.csb": {
+        "md5": "139d753f48215e93bf7708f965b0a90c"
+    },
+    "res/club/animation/Hongbao_Open/hongbaofang_artword_tx1.png": {
+        "md5": "f9f312d85c511a3f1c5805dab933b70c"
+    },
+    "res/club/animation/Hongbao_Open/hongbaofang_img_goldenpig.png": {
+        "md5": "aaf08d1355167c2241e94f819e27ba09"
+    },
+    "res/club/animation/Hongbao_Open/hongbaofang_img_yuan.png": {
+        "md5": "6e131082e926947dc7a6093c368b68bf"
+    },
+    "res/club/animation/Hongbao_Open/images/JBC_lz_1.plist": {
+        "md5": "8465be808448249111faabacd33d0f80"
+    },
+    "res/club/animation/Hongbao_Open/images/SC_dk_hongbao1.png": {
+        "md5": "409d3aae2e553b2cff60089c1ea21ddf"
+    },
+    "res/club/animation/Hongbao_Open/images/SC_hongbao1.png": {
+        "md5": "93eade13f628ecf4e7668555133077d1"
+    },
+    "res/club/animation/Hongbao_Open/images/glow_00009.png": {
+        "md5": "a5d4920bb9c10e360b1143396cd92b34"
+    },
+    "res/club/animation/Hongbao_Open/images/golw.png": {
+        "md5": "a9eda02a3133ae8725175d840438ad4f"
+    },
+    "res/club/animation/Hongbao_Open/images/xue_03.plist": {
+        "md5": "693828ccf2a141604e4c2881c911b431"
+    },
+    "res/club/animation/Hongbao_Open/images/xue_04.plist": {
+        "md5": "8858f24bb056d625403fe0752fb5bd77"
+    },
+    "res/club/animation/PT_UIFX_HaoYouYinDaoDongHua_1.csb": {
+        "md5": "b69994baa5e7d4e919fd4a7ae4cb950a"
+    },
+    "res/club/animation/PT_UIFX_PaiYouXiaoGuoXin_1.csb": {
+        "md5": "b964d6d41d4c8cdbd0650c1cd34a2320"
+    },
+    "res/club/animation/PT_UIFX_ShouZhiDianJi_1.csb": {
+        "md5": "af32424d5fa25de44f91f556ed933318"
+    },
+    "res/club/animation/QYQ_UIFX_HongBaoHuoDong.csb": {
+        "md5": "8ecd2c61984e5250883e7aa5020ffcde"
+    },
+    "res/club/animation/QYQ_UIFX_XinShouYinDao.csb": {
+        "md5": "13a55aee3a9c3fe0ecae89a1f74e8f5f"
+    },
+    "res/club/animation/gift/images/HB_YuanBao_Luo_1.plist": {
+        "md5": "59abea9ec762a9bff915a05f927a04dd"
+    },
+    "res/club/animation/gift/images/HB_YuanBao_Luo_2.plist": {
+        "md5": "7839303327ecffa7fdd72d52a2646625"
+    },
+    "res/club/animation/gift/images/HB_YuanBao_Qi_1.plist": {
+        "md5": "5bb097d03335b381b3facec41d56e056"
+    },
+    "res/club/animation/gift/images/HB_YuanBao_Qi_2.plist": {
+        "md5": "4cc1e49818f39d56adb61d9040f6eeb4"
+    },
+    "res/club/animation/gift/images/hongbaofang_artword_tx1.png": {
+        "md5": "f9f312d85c511a3f1c5805dab933b70c"
+    },
+    "res/club/animation/gift/images/hongbaofang_img_yuan.png": {
+        "md5": "6e131082e926947dc7a6093c368b68bf"
+    },
+    "res/club/animation/iamges/Glow_Flar_011.png": {
+        "md5": "4bcd86d597e5cec7eb2cee1a59db3ea5"
+    },
+    "res/club/animation/iamges/PT_UIFX_PaiYouQuanHongBao_01.png": {
+        "md5": "2658fe1a8e58a642c943abbe11c15ff4"
+    },
+    "res/club/animation/iamges/PT_UIFX_ShouZhiDianJi_Sprite1.plist": {
+        "md5": "819d04afa03f529f2af4769d799629d1"
+    },
+    "res/club/animation/iamges/PT_UIFX_ShouZhiDianJi_Sprite1.png": {
+        "md5": "15cd5a07cdd2903c32198fdb927916d8"
+    },
+    "res/club/animation/iamges/QYQ_UIFX_HongBaoHuoDong.plist": {
+        "md5": "8b44ce6f183978cd74ac3177cc63a87c"
+    },
+    "res/club/animation/iamges/QYQ_UIFX_HongBaoHuoDong.png": {
+        "md5": "b3a81e7691d0ec7206f1c11d0ddc7602"
+    },
+    "res/club/animation/iamges/QYQ_UIFX_XinShouYinDao.plist": {
+        "md5": "254f803aa1083fd3f0e07cfdb4fe2967"
+    },
+    "res/club/animation/iamges/QYQ_UIFX_XinShouYinDao.png": {
+        "md5": "d74296385ab2389332e133d2a6dbeb0c"
+    },
+    "res/club/animation/iamges/SC_dk_hongbao1.png": {
+        "md5": "409d3aae2e553b2cff60089c1ea21ddf"
+    },
+    "res/club/animation/iamges/SC_hongbao1.png": {
+        "md5": "93eade13f628ecf4e7668555133077d1"
+    },
+    "res/club/animation/iamges/SC_hongbao2.png": {
+        "md5": "071a83e29db639f8fa531a4e9edeea4c"
+    },
+    "res/club/animation/iamges/SD_glow02.png": {
+        "md5": "11b01be457f78de368ccee59de9d3cad"
+    },
+    "res/club/animation/iamges/SH_hb_1.plist": {
+        "md5": "5412667a478d2a49e38fe22d02ed5e59"
+    },
+    "res/club/animation/iamges/Test_ClickFX_ChuanQi_Sprite01.png": {
+        "md5": "65fccb28b013b6399b7253289adacfa4"
+    },
+    "res/club/animation/iamges/Test_ClickFX_ChuanQi_Sprite02.png": {
+        "md5": "f6433e327e32841c928ff5a0532a7fc1"
+    },
+    "res/club/animation/iamges/Test_ClickFX_ChuanQi_Sprite03.png": {
+        "md5": "145b495c3d35e1cb4978dc6f7586702e"
+    },
+    "res/club/animation/iamges/Xjs_hongbao01.png": {
+        "md5": "06298d0544d869b478b334f91274d803"
+    },
+    "res/club/animation/iamges/Xjs_hongbao02.png": {
+        "md5": "eb9b53aef65e69283f24f081825b89bd"
+    },
+    "res/club/animation/iamges/Xjs_hongbao03.png": {
+        "md5": "5c4b15cf7ecf256125e50f784ffc3a1a"
+    },
+    "res/club/animation/iamges/Xln_flare.png": {
+        "md5": "543934ff6602a4f2a231b9d3249e607f"
+    },
+    "res/club/animation/iamges/Xln_hongbao_shine.png": {
+        "md5": "4d79b37b64751acbcf3babfe8f967909"
+    },
+    "res/club/animation/iamges/Xln_yanhua1.plist": {
+        "md5": "e2d3e944a769c3d7abf21d741d67ff93"
+    },
+    "res/club/animation/iamges/Xln_yanhua1.png": {
+        "md5": "99772293264e0060d2e90222351fd642"
+    },
+    "res/club/animation/iamges/Xln_yanhua2.plist": {
+        "md5": "0036e50c8ed6518db15d72cb425c95bf"
+    },
+    "res/club/animation/iamges/Xln_yanhua2.png": {
+        "md5": "2c1482b1efbd2cdea530abed04a6c5bb"
+    },
+    "res/club/animation/iamges/Xnx_lingqufangka.plist": {
+        "md5": "3636c97d3e72ded564c1a4fa48a5bb0d"
+    },
+    "res/club/animation/iamges/Xnx_lingqufangka.png": {
+        "md5": "4dbfb438cc2a8816e85fef4fee1a84db"
+    },
+    "res/club/animation/iamges/club_tishiqipao.png": {
+        "md5": "c89ed95c41d1af186bd3b5992e9f3cee"
+    },
+    "res/club/animation/iamges/golw.png": {
+        "md5": "a9eda02a3133ae8725175d840438ad4f"
+    },
+    "res/club/animation/iamges/golw_01.png": {
+        "md5": "339f518512c06abea091a021dd672654"
+    },
+    "res/club/animation/iamges/golw_02.png": {
+        "md5": "748c5a97efca9e90e59e96501c04261d"
+    },
+    "res/club/animation/iamges/golw_03.png": {
+        "md5": "1ad70376c7b0d325b612ae7ef6ed1e57"
+    },
+    "res/club/animation/iamges/golw_04.png": {
+        "md5": "98012cf2b3fa4945432ab9fa5cd07e59"
+    },
+    "res/club/animation/iamges/hallfriend/PT_UIFX_DaTingPaiYou_01.png": {
+        "md5": "6f77407a1d03868f3ef5449370ae7c4a"
+    },
+    "res/club/animation/iamges/hallfriend/PT_UIFX_DaTingPaiYou_Sheet1.plist": {
+        "md5": "57cc7d06fd1027eacc8b09d7fdf8f4f0"
+    },
+    "res/club/animation/iamges/hallfriend/PT_UIFX_DaTingPaiYou_Sheet1.png": {
+        "md5": "053cf4f9792ceabf8b9da2f2100cfb42"
+    },
+    "res/club/animation/iamges/hallfriend/PT_UIFX_HaoYouYinDaoDongHua_Sheet2.plist": {
+        "md5": "8ea9f0a802430e763103b824a51c76ea"
+    },
+    "res/club/animation/iamges/hallfriend/PT_UIFX_HaoYouYinDaoDongHua_Sheet2.png": {
+        "md5": "70d5d0fd475c173b1a0c482a682173a4"
+    },
+    "res/club/animation/iamges/hallfriend/PT_UIFX_HaoYouYinDaoDongHua_Sheet3.plist": {
+        "md5": "2fa9d098ea4b1ee51e9d5cd7026480fc"
+    },
+    "res/club/animation/iamges/hallfriend/PT_UIFX_HaoYouYinDaoDongHua_Sheet3.png": {
+        "md5": "b93d0a6b1d87ae97856f0708872bfe8e"
+    },
+    "res/club/animation/iamges/hallfriend/PT_UIFX_HaoYouYinDaoDongHua_Sprite1.plist": {
+        "md5": "6e42f1b15271a2c34d091f4402c3356a"
+    },
+    "res/club/animation/iamges/hallfriend/PT_UIFX_HaoYouYinDaoDongHua_Sprite1.png": {
+        "md5": "e697b4f043572a7d1fc67c1b0fb4ebe5"
+    },
+    "res/club/animation/iamges/hallfriend/PT_UIFX_PaiYouXiaoGuoXin_Particle_1_1.plist": {
+        "md5": "e47166ada6da573d175d6e5d971808c5"
+    },
+    "res/club/animation/iamges/hallfriend/PT_UIFX_PaiYouXiaoGuoXin_Sprite1.plist": {
+        "md5": "4482f7b33536f9c926449704718e2ba7"
+    },
+    "res/club/animation/iamges/hallfriend/PT_UIFX_PaiYouXiaoGuoXin_Sprite1.png": {
+        "md5": "26327014022df3b34fa9d1217b4b232c"
+    },
+    "res/club/animation/iamges/hongbao_artword_word1.png": {
+        "md5": "8809c1dd2307bc40d089d75ee3c5de2f"
+    },
+    "res/club/animation/iamges/hongbao_artword_word2.png": {
+        "md5": "339757e3608d7470226f54b3adc71379"
+    },
+    "res/club/animation/iamges/hongbao_di_dakai.png": {
+        "md5": "6deece82fd8eb83831e03ee93ca8b84e"
+    },
+    "res/club/animation/iamges/hongbao_img_line.png": {
+        "md5": "b6118fd9d02a8eb60b1a0ae0f13fed92"
+    },
+    "res/club/animation/iamges/hongbaofang_artword_tx1.png": {
+        "md5": "f9f312d85c511a3f1c5805dab933b70c"
+    },
+    "res/club/animation/iamges/hongbaofang_img_goldenpig.png": {
+        "md5": "aaf08d1355167c2241e94f819e27ba09"
+    },
+    "res/club/animation/iamges/hongbaofang_img_yuan.png": {
+        "md5": "6e131082e926947dc7a6093c368b68bf"
+    },
+    "res/club/animation/iamges/loading.png": {
+        "md5": "679704120caec49c277518a4a0cf15a5"
+    },
+    "res/club/animation/iamges/reward/PT_UIFX_HongBaoLingQu_03.png": {
+        "md5": "28859b7f14e3202de29862fa439bbe9a"
+    },
+    "res/club/animation/iamges/reward/PT_UIFX_HongBaoLingQu_Particle_01.plist": {
+        "md5": "90ff2b5cfdaa6033e316795ceaafbb95"
+    },
+    "res/club/animation/iamges/reward/PT_UIFX_HongBaoLingQu_Particle_01.png": {
+        "md5": "f0d187a1738685c75b8c9f321ca33d0f"
+    },
+    "res/club/animation/iamges/shanxing2.plist": {
+        "md5": "bcc976135a68a08632456e6df5fe8540"
+    },
+    "res/club/deskinvite/ClubFriendHeadSprTips.csb": {
+        "md5": "cc8ec925f4c6e5fb0b1404565ff718c1"
+    },
+    "res/club/deskinvite/ClubFriendHeadSprTipsCell.csb": {
+        "md5": "62ac058a4dba076c82cc3e36aed94b62"
+    },
+    "res/club/deskinvite/ClubInviteDeskCell.csb": {
+        "md5": "60573728a24a13a094b4d4b9c64828fd"
+    },
+    "res/club/deskinvite/ClubInviteLayer.csb": {
+        "md5": "87e2236fc45698abd841966fdf03f14a"
+    },
+    "res/club/deskinvite/ClubInviteMemberCell.csb": {
+        "md5": "6668ecc1d59ec2e6d51f7dc9b4fe4a44"
+    },
+    "res/club/deskinvite/GuildSidebarInviteContact.csb": {
+        "md5": "8f8e371056fe7090dc348ed9cae1efcf"
+    },
+    "res/club/deskinvite/SwitchDeskTips.csb": {
+        "md5": "d650d077deda27ce070b04f1d9cbe755"
+    },
+    "res/club/deskinvite/SwitchOneBtnInviteLayer.csb": {
+        "md5": "257956fc18c7927358c55a23e7f525ac"
+    },
+    "res/club/deskinvite/SwitchOneBtnInviteMemberNode.csb": {
+        "md5": "79c9bc639388cea13ad3acc1f953d000"
+    },
+    "res/club/deskinvite/alerl_bg.png": {
+        "md5": "3e6ab7c05c61d7cb137555b4aae7e9e6"
+    },
+    "res/club/deskinvite/alerl_btn_guanbi.png": {
+        "md5": "d718dbe70b3577f1ae0181d3c3930551"
+    },
+    "res/club/deskinvite/alerl_i_tou1.png": {
+        "md5": "15b23d4023778e046c4727698faf5575"
+    },
+    "res/club/deskinvite/club_btx_qd02.png": {
+        "md5": "9bd5e41787c01e9c9cc75dfbc2e51484"
+    },
+    "res/club/deskinvite/club_btx_tjwxh.png": {
+        "md5": "c50ea1eb9f9fb154f961cfe1eff96cd9"
+    },
+    "res/club/deskinvite/club_btx_xgwxh.png": {
+        "md5": "fe5b7757c5b34c1657e4f245a02b8cdc"
+    },
+    "res/club/deskinvite/club_btx_zdlx.png": {
+        "md5": "cdfca7c62cbd4df42133f4d68e8ea557"
+    },
+    "res/club/deskinvite/clublist_head01.png": {
+        "md5": "5cfa2d4f38a5911dc394762962ebd754"
+    },
+    "res/club/deskinvite/clublist_head02.png": {
+        "md5": "4b343be94f39470f8b80109f7ef389d2"
+    },
+    "res/club/deskinvite/com_btn_bukeyaoqing.png": {
+        "md5": "62ae43eb7ee15dae2f6a6ca9d4f3297e"
+    },
+    "res/club/deskinvite/com_btn_yaoqing.png": {
+        "md5": "002de0e0f8d807fa468f5f434a2bd6ac"
+    },
+    "res/club/deskinvite/com_btn_yiyaoqing.png": {
+        "md5": "a26da41b80fdbdc9483f4555f2d29e70"
+    },
+    "res/club/deskinvite/com_btx_shenqingjiaru_n.png": {
+        "md5": "16ea642491bf80391eb1b81d33a8867e"
+    },
+    "res/club/deskinvite/com_img_tachangwandeqinyouquan_n.png": {
+        "md5": "feab8b787cba2d0879e7a8ae1560770b"
+    },
+    "res/club/deskinvite/fangka_hl_fangjianwanf.png": {
+        "md5": "e52036e15d7b3f88469c7000b7984f89"
+    },
+    "res/club/deskinvite/guild_v2_main_bg2.png": {
+        "md5": "b409aeb1179ed63c40d9020c05312862"
+    },
+    "res/club/deskinvite/tab_btn_kuaisu.png": {
+        "md5": "2390d356b4e4b86bcc691adfdb32ec9f"
+    },
+    "res/club/deskinvite/tab_btn_yaoqing.png": {
+        "md5": "9155d65d315b1c36e50752f76402b42a"
+    },
+    "res/club/deskinvite/tab_btn_yaoqing_p-1.png": {
+        "md5": "305bc4b94cf54234e34f09475bd5e1f1"
+    },
+    "res/club/deskinvite/tab_btn_yaoqing_p.png": {
+        "md5": "e734e4dfb953374fe4f0d714ad616792"
+    },
+    "res/club/deskinvite/xl_aler_btn3_huang.png": {
+        "md5": "169158f3b20ba32cc3ad1a7214f58cf9"
+    },
+    "res/club/deskinvite/yaoqing_btn_huanyipi.png": {
+        "md5": "d644ab86ee64ce8ec2d86de2f8b1bc55"
+    },
+    "res/club/deskinvite/yaoqing_btn_shuaxin.png": {
+        "md5": "08b5d269079dac9f0a5deb4dbb7d475e"
+    },
+    "res/club/deskinvite/yaoqing_btn_shuaxin_p.png": {
+        "md5": "77ca51f13448288c5eb311e912ee5f76"
+    },
+    "res/club/deskinvite/yaoqing_btn_yijianyaoqing.png": {
+        "md5": "433e9982d003f3bbd9a47ff92f3ad599"
+    },
+    "res/club/deskinvite/yaoqing_btn_yijianyaoqing_d.png": {
+        "md5": "26650fd1df8b12b413ecce5a2462151c"
+    },
+    "res/club/deskinvite/yaoqing_btn_yijianyaoqing_p.png": {
+        "md5": "2227ca4578ca10c32dda7cb068417f47"
+    },
+    "res/club/deskinvite/yaoqing_hl_yijianyaoqing.png": {
+        "md5": "2057da0ebc38ea919a8d67689b5fe13c"
+    },
+    "res/club/deskinvite/yaoqing_icon_kongx.png": {
+        "md5": "bf056f98245bf1b76a12177e5f1d099c"
+    },
+    "res/club/deskinvite/yaoqing_pop.png": {
+        "md5": "051f0bda1ab21f899b52abfa191358ab"
+    },
+    "res/club/deskinvite/yaoqing_pop_bg.png": {
+        "md5": "4b65e7f686d932e678e1e2299010d3d7"
+    },
+    "res/club/deskinvite/yaoqing_pop_xinxi_bg.png": {
+        "md5": "579a543a2204565a4b9cdabb6dab5553"
+    },
+    "res/club/deskinvite/yaoqing_tanchu.png": {
+        "md5": "49a9220937a3e65eb2c40d473298ca5b"
+    },
+    "res/club/deskinvite/yaoqing_tanchu2.png": {
+        "md5": "337475b913bbc0c0ab40798211f21fcf"
+    },
+    "res/club/deskswitch/ClubSwitchDeskCell.csb": {
+        "md5": "903ab63436d748bf8b93b89cccda9e19"
+    },
+    "res/club/deskswitch/ClubSwitchLayer.csb": {
+        "md5": "db5f15dd61370ed0627bf5921d7b9e9c"
+    },
+    "res/club/deskswitch/GameWatchSwitchDeskTips.csb": {
+        "md5": "d650d077deda27ce070b04f1d9cbe755"
+    },
+    "res/club/deskswitch/btn-hz.png": {
+        "md5": "bb1f5dedbfb15fc5f07fceaecee63e9a"
+    },
+    "res/club/deskswitch/btn_jcpj.png": {
+        "md5": "89664aa23a83c07c6cee2223df7e7517"
+    },
+    "res/club/deskswitch/btx_gb.png": {
+        "md5": "ab8b364f1d2cb7b3cb9647a717f6ddd7"
+    },
+    "res/club/deskswitch/hl_jcpj.png": {
+        "md5": "cf5a296ecd7e7822c064feab641ae26d"
+    },
+    "res/club/deskswitch/huanzhuo_bg.png": {
+        "md5": "d5ed4c0e138cae42cfb92adc48057db7"
+    },
+    "res/club/deskswitch/huanzhuo_tanchu.png": {
+        "md5": "d3fd4aa746fe4d923bf7d7330d84a02d"
+    },
+    "res/club/deskswitch/huanzhuo_tanchu2.png": {
+        "md5": "603eb118bb8f6ae77f91c63cd0e8fba6"
+    },
+    "res/club/deskswitch/img_tiao.png": {
+        "md5": "ac7d99b47b3d8eafdc9b8b575f4d27a0"
+    },
+    "res/club/deskswitch/img_titou.png": {
+        "md5": "dd07376d7621b88fac3e38de79f3a058"
+    },
+    "res/club/deskswitch/pop_tanchu.png": {
+        "md5": "92bc11eab2beecc34f70b7792d8363fb"
+    },
+    "res/club/deskswitch/qipao.png": {
+        "md5": "aabc888f5c8a0c250c8840a8f5f9bd83"
+    },
+    "res/club/fastgroup.csb": {
+        "md5": "5b6f8028e11fb0f5e7c1eae80cffc4fc"
+    },
+    "res/club/fastgroupexplain.csb": {
+        "md5": "e612d3fb01a931fd2d6df254479c7c13"
+    },
+    "res/club/guild_Skin.plist": {
+        "md5": "6d090e6a32ed9427508e301c9792ec70"
+    },
+    "res/club/guild_Skin.png": {
+        "md5": "231535892bcf599987d808260995c6e6"
+    },
+    "res/club/guild_badge.plist": {
+        "md5": "7e4fea5b5f2609462328950c3734571a"
+    },
+    "res/club/guild_badge.png": {
+        "md5": "8bfb8c9b0f5c14e0482b89f66d70639a"
+    },
+    "res/club/guild_beanmode.plist": {
+        "md5": "37a9c1d8ba1079a73d91b7a16059c24c"
+    },
+    "res/club/guild_beanmode.png": {
+        "md5": "6c128d58481d50fcfd2bf452faa0223c"
+    },
+    "res/club/guild_beanshop.plist": {
+        "md5": "246a45e212231a43a6662069482a61fa"
+    },
+    "res/club/guild_beanshop.png": {
+        "md5": "d7172b5aa8fd6e66a1855851c0e16b1a"
+    },
+    "res/club/guild_common.plist": {
+        "md5": "0a9f7b7ccb436c4beebff32a6165d4b6"
+    },
+    "res/club/guild_common.png": {
+        "md5": "f3b64257149cca3664a5031f158a3b8e"
+    },
+    "res/club/guild_fastgroup.plist": {
+        "md5": "7f4186d8d84cfa951db8811686c842cd"
+    },
+    "res/club/guild_fastgroup.png": {
+        "md5": "d6e196d8cd481391b454e8c56771cdbe"
+    },
+    "res/club/guild_float_text_bg.png": {
+        "md5": "3c884e5183407aa00f45e69e8302f7f0"
+    },
+    "res/club/guild_force_reset.plist": {
+        "md5": "d29cbd3eba42f62907b9f852f14526e0"
+    },
+    "res/club/guild_force_reset.png": {
+        "md5": "2aa5609c8e9c464e1800d0c07c573d44"
+    },
+    "res/club/guild_hall.plist": {
+        "md5": "178f913d7b7000f608904ffc49e7fbd8"
+    },
+    "res/club/guild_hall.png": {
+        "md5": "c576498e3c04886d0a29408675ad40ce"
+    },
+    "res/club/guild_newMain.plist": {
+        "md5": "e1a801dea17844af307f03e29c5bb76e"
+    },
+    "res/club/guild_newMain.png": {
+        "md5": "d16a8893efe68523ba17fa264352c8ec"
+    },
+    "res/club/guild_popup.plist": {
+        "md5": "19539a137d0c6b1bcf00c654d42b847e"
+    },
+    "res/club/guild_popup.png": {
+        "md5": "32153e8e27fdadaabebf795365dc3288"
+    },
+    "res/club/guild_record.plist": {
+        "md5": "59188d7044b3ff4fb4196c99197fbbfd"
+    },
+    "res/club/guild_record.png": {
+        "md5": "b321986182502c294ab9d0a23da06974"
+    },
+    "res/club/guild_record_new.plist": {
+        "md5": "a561efc4458e73044e5b0e2af12f544e"
+    },
+    "res/club/guild_record_new.png": {
+        "md5": "6d625806efcec7a409e8e1a94837c0d2"
+    },
+    "res/club/guild_roomdescpop.plist": {
+        "md5": "2a31040f83542d5d8595ef10fb437e1c"
+    },
+    "res/club/guild_roomdescpop.png": {
+        "md5": "cac452064e04b23e168bed840e593017"
+    },
+    "res/club/guild_small_hut.plist": {
+        "md5": "8abc33c25cad5a536074a13f430a87c2"
+    },
+    "res/club/guild_small_hut.png": {
+        "md5": "0b0872de1b3fe8432e8eabdf560e31e3"
+    },
+    "res/club/guild_v2_historyStatic_font.png": {
+        "md5": "5c2be9cf3f4a7082f11e41cd34a4b1d8"
+    },
+    "res/club/guild_v2_icon.plist": {
+        "md5": "1ec0bf3c6f9240ee047dcefe7cf90dca"
+    },
+    "res/club/guild_v2_icon.png": {
+        "md5": "9b753737efd9b114697dad6be74624dd"
+    },
+    "res/club/guild_v2_main.plist": {
+        "md5": "253ae40ec2c52f2668a3b52a9cc0b0c7"
+    },
+    "res/club/guild_v2_main.png": {
+        "md5": "a8717ad7de57d8c08f3c8708adbe47a0"
+    },
+    "res/club/guild_v2_number.plist": {
+        "md5": "b08dfdb3d7b2c0e8530d8640fdeaa5ba"
+    },
+    "res/club/guild_v2_number.png": {
+        "md5": "eb7e11b734c92f81568a2248c10e4862"
+    },
+    "res/club/guild_v2_public.plist": {
+        "md5": "dae3f8c74aee12769ad8d4b803a4e69c"
+    },
+    "res/club/guild_v2_public.png": {
+        "md5": "1e939aec6e093b71e2bcbfa6d0148f49"
+    },
+    "res/club/guild_zhuli.plist": {
+        "md5": "04ffd73b48b67a0ab0855ca5ca7f9f6d"
+    },
+    "res/club/guild_zhuli.png": {
+        "md5": "9d6d492c934b00875ecbb3450893685b"
+    },
+    "res/club/historyStatics.plist": {
+        "md5": "a3e544d07aa4131e0e1ac417870a3534"
+    },
+    "res/club/historyStatics.png": {
+        "md5": "4fea837210b093af5dec4c822b9bcbeb"
+    },
+    "res/club/images/activities/c2c/c2c_publicize.png": {
+        "md5": "12f1ae73b613875fe136b3a3710f754f"
+    },
+    "res/club/images/activities/c2c/ctc_img_redpoint_1.png": {
+        "md5": "0cf13c235d70915614bc2f641bea3f17"
+    },
+    "res/club/images/activities/c2c/ctc_num_hl.png": {
+        "md5": "02761c6864ef44335c055fd1ec77c127"
+    },
+    "res/club/images/activities/c2c/ctc_num_shangjin.png": {
+        "md5": "59019545fd32d3ffad1ce1eb012e7a9c"
+    },
+    "res/club/images/activities/c2c/ctc_num_xuanchuan2.png": {
+        "md5": "73711a27815e51d29938977d07ee4729"
+    },
+    "res/club/images/activities/c2c/guild_activities_c2c.plist": {
+        "md5": "35ce0f40b329a9ec345185b5b20f6231"
+    },
+    "res/club/images/activities/c2c/guild_activities_c2c.png": {
+        "md5": "01c80d17d50d4a399c4bc7e51523c6a4"
+    },
+    "res/club/images/activities/recall/PT_UIFX_XinChunCiFu.plist": {
+        "md5": "36b930a485e32cc6b59e8764a55f1ff0"
+    },
+    "res/club/images/activities/recall/PT_UIFX_XinChunCiFu.png": {
+        "md5": "c376885acb36f6ec2e33b9dbe7ab3c8e"
+    },
+    "res/club/images/activities/recall/PT_UIFX_XinChunCiFu_Particle01.plist": {
+        "md5": "9c9cd121c6c5b201320e51fe8d397fec"
+    },
+    "res/club/images/activities/recall/PT_UIFX_XinChunCiFu_Particle02.plist": {
+        "md5": "90f32daf2b8328754932c872976567b1"
+    },
+    "res/club/images/activities/recall/ZZ_CardFX_LiHua.plist": {
+        "md5": "5ed49ecd2296c44b528f4c0b5e5a9730"
+    },
+    "res/club/images/activities/recall/ZZ_CardFX_LiHua.png": {
+        "md5": "8d317e57f407006d1549c1f9e4689344"
+    },
+    "res/club/images/activities/recall/guild_activities_recall.plist": {
+        "md5": "8ec29e8da718bc4c7cf6c3b27c77a593"
+    },
+    "res/club/images/activities/recall/guild_activities_recall.png": {
+        "md5": "9cc2f34bb494959ec93fc096bbb3db82"
+    },
+    "res/club/images/activities/returncard/guild_activities_returncard.plist": {
+        "md5": "671b1ef71be8be1701d1ae607f3e7066"
+    },
+    "res/club/images/activities/returncard/guild_activities_returncard.png": {
+        "md5": "6fddfcfe494d8b8a7ca172bb1d7aa531"
+    },
+    "res/club/images/activities/reward/reward.plist": {
+        "md5": "a32b6840d59233c9bf1f67d17e4affb8"
+    },
+    "res/club/images/activities/reward/reward.png": {
+        "md5": "9a9d3eb187c13f824a5a6b0c3b9ccbe8"
+    },
+    "res/club/images/activities/task/guild_activities_task.plist": {
+        "md5": "a89bf56ae37236d97a45578b57cac5ce"
+    },
+    "res/club/images/activities/task/guild_activities_task.png": {
+        "md5": "2300c78c9649d652b6057471ca92ebb4"
+    },
+    "res/club/images/activities/turnplate/lobby_btn.png": {
+        "md5": "c889c290a558fb26b8ae3921deb3581a"
+    },
+    "res/club/images/baninroom/guild_baninroom.plist": {
+        "md5": "cc3fe7ceb3d41a4f0a5278ee5ee46763"
+    },
+    "res/club/images/baninroom/guild_baninroom.png": {
+        "md5": "57e7403bf7cbdfeb5f9c0d8e7149907b"
+    },
+    "res/club/images/banotherinroom/guild_banotherinroom.plist": {
+        "md5": "e09911d4b6aba339c1a710647b8a6827"
+    },
+    "res/club/images/banotherinroom/guild_banotherinroom.png": {
+        "md5": "783d1695210dd287b2d5c3d90773f744"
+    },
+    "res/club/images/beanmode/bg_xiandou.png": {
+        "md5": "1b956bad08e67abe32e37952e8d53538"
+    },
+    "res/club/images/beanmode/guild_v2_main_top_bg_xiandou.png": {
+        "md5": "12965ac90c844cddeb2487dd27c75f0f"
+    },
+    "res/club/images/callplay/guild_callplay.plist": {
+        "md5": "30967e1e8e3ab87548146990ef07c42e"
+    },
+    "res/club/images/callplay/guild_callplay.png": {
+        "md5": "7912240ffbcea094db2e5eeafd506edb"
+    },
+    "res/club/images/commonImages/club_img_touxiang1.png": {
+        "md5": "5440cb74ac1a011be17267bd57374d5e"
+    },
+    "res/club/images/commonImages/club_img_touxiangkuang.png": {
+        "md5": "3eb33e14bd544f8a4934aa3d4fca0abb"
+    },
+    "res/club/images/commonImages/guild_badge_loading.png": {
+        "md5": "8265c41e1f6819dc1ff0e37f4d4456b5"
+    },
+    "res/club/images/commonImages/guild_badge_loading_bg.png": {
+        "md5": "bcc9747b89d92a9321c0a908af0cee89"
+    },
+    "res/club/images/commonImages/guild_img_xpz_touxiang.png": {
+        "md5": "2c33ec7835cd09a2ecd6e9e32e883d02"
+    },
+    "res/club/images/commonImages/guild_v2_main_hongdian.png": {
+        "md5": "ce3b560d6ad56c0b898a1d49cd2e0661"
+    },
+    "res/club/images/commonImages/guild_v2_main_left_bg_1.png": {
+        "md5": "04946511a3b90fd4eb373ed2ca4b9a73"
+    },
+    "res/club/images/commonImages/guild_v2_main_left_shou.png": {
+        "md5": "e345277a04db4a58526638504a115978"
+    },
+    "res/club/images/commonImages/guild_v2_main_wait.png": {
+        "md5": "53c5c3d2b53c2ecc00a1fff140bc549b"
+    },
+    "res/club/images/commonImages/xpz_btn_qinyouquan.png": {
+        "md5": "c08871d6df855f3708bf0fecbcc41b2c"
+    },
+    "res/club/images/createclub/create_club.plist": {
+        "md5": "f73c719658da3485a44075896bc54d48"
+    },
+    "res/club/images/createclub/create_club.png": {
+        "md5": "1bac7efb6be70ef7f347a6d038097db7"
+    },
+    "res/club/images/effectivenumber/effective_number.plist": {
+        "md5": "ef6d3fe5aae46b6ee0019e914aacb71a"
+    },
+    "res/club/images/effectivenumber/effective_number.png": {
+        "md5": "b885dc400c5c7f9839e39646f6a4b79a"
+    },
+    "res/club/images/evenopenrecord/guild_even_open_record.plist": {
+        "md5": "9e35cc4d56f390932b8998f81429071b"
+    },
+    "res/club/images/evenopenrecord/guild_even_open_record.png": {
+        "md5": "ba7a7b292e22284216fc59c255e2a0b1"
+    },
+    "res/club/images/friendlist/PT_UIFX_DaTingPaiYou_01.png": {
+        "md5": "6f77407a1d03868f3ef5449370ae7c4a"
+    },
+    "res/club/images/friendlist/PT_UIFX_DaTingPaiYou_Sheet1.plist": {
+        "md5": "57cc7d06fd1027eacc8b09d7fdf8f4f0"
+    },
+    "res/club/images/friendlist/PT_UIFX_DaTingPaiYou_Sheet1.png": {
+        "md5": "053cf4f9792ceabf8b9da2f2100cfb42"
+    },
+    "res/club/images/friendlist/friendlist.plist": {
+        "md5": "d417181f741b7344b9356c0a70ddb246"
+    },
+    "res/club/images/friendlist/friendlist.png": {
+        "md5": "cddb0c45e27496485316fec6d0754a8a"
+    },
+    "res/club/images/gamewatch/gamewatch.plist": {
+        "md5": "088dcc88d9602daa9fd69e83156d9562"
+    },
+    "res/club/images/gamewatch/gamewatch.png": {
+        "md5": "98edcfa738334b08f9abd23386d87b51"
+    },
+    "res/club/images/hallpopview/club_hl_gxhd.png": {
+        "md5": "b1c0b03de76c172bb2d4e723e70543f2"
+    },
+    "res/club/images/hallpopview/guild_act_jianquanfuli.png": {
+        "md5": "d7245bb042fb732a3c29149f16f7d8c3"
+    },
+    "res/club/images/leisureclose/leisure_close.plist": {
+        "md5": "4541ea4f956c84849836e2934ca2abfb"
+    },
+    "res/club/images/leisureclose/leisure_close.png": {
+        "md5": "cb6f8fb2fed660ca1899b34f70b951e0"
+    },
+    "res/club/images/majorleague/majorleague.plist": {
+        "md5": "011bb37594448103a49acba6db7532ff"
+    },
+    "res/club/images/majorleague/majorleague.png": {
+        "md5": "db4f6439b2ff769ac523afde31749f3f"
+    },
+    "res/club/images/manager/club_img_1.png": {
+        "md5": "535d020dfb3119d01ba5181df0393132"
+    },
+    "res/club/images/manager/club_img_2.png": {
+        "md5": "f8d4dc6fc62d593ed790a88faf9d8f7c"
+    },
+    "res/club/images/manager/club_img_3.png": {
+        "md5": "2fa30697a91029e47d28d45bfcdd5d2c"
+    },
+    "res/club/images/manager/guild_manager.plist": {
+        "md5": "cf79e2672eb679cb1a34c39382418200"
+    },
+    "res/club/images/manager/guild_manager.png": {
+        "md5": "052acb4d6c242a83718b0d9691f7e140"
+    },
+    "res/club/images/member/guild_member.plist": {
+        "md5": "16e20aed2c7755db542dc05278683cac"
+    },
+    "res/club/images/member/guild_member.png": {
+        "md5": "614a6924ed78ab679fc514f197b177a8"
+    },
+    "res/club/images/partner/guild_partner.plist": {
+        "md5": "306fda4345c0079920d96650db96bdce"
+    },
+    "res/club/images/partner/guild_partner.png": {
+        "md5": "baa51ccd9906cac6206fcb1772393441"
+    },
+    "res/club/images/partner/partner_invite.plist": {
+        "md5": "b8ebe70ee74f6c75b3ba80838441babf"
+    },
+    "res/club/images/partner/partner_invite.png": {
+        "md5": "d8b532689f9b5fe87cb6a2acb2eb2087"
+    },
+    "res/club/images/personalsecretary/guild_personalsecretary.plist": {
+        "md5": "ffc2ad3c5e8f805bf150605626fbe821"
+    },
+    "res/club/images/personalsecretary/guild_personalsecretary.png": {
+        "md5": "e5422393cf210d2d13a272bf6c45dcab"
+    },
+    "res/club/images/quickjump/guild_quickjump.plist": {
+        "md5": "777528f2e2878e6b451a5707b3315323"
+    },
+    "res/club/images/quickjump/guild_quickjump.png": {
+        "md5": "0a439895f8da4ce8e3fee93ddf3313a6"
+    },
+    "res/club/images/recommendqinyou/aler_txt_queding_d.png": {
+        "md5": "617266ba1c6e809ccf2c575c4e6ca621"
+    },
+    "res/club/images/recommendqinyou/btx_yijianshuru.png": {
+        "md5": "f33e3a735608a59d0a203394d16db3c9"
+    },
+    "res/club/images/recommendqinyou/guild_recommendqinyou.plist": {
+        "md5": "39f4c9d7970b44dc509a92d415ec4f7b"
+    },
+    "res/club/images/recommendqinyou/guild_recommendqinyou.png": {
+        "md5": "e43d74227486277a732db7edb2c0b24f"
+    },
+    "res/club/images/recommendroom/guild_recommend_room.plist": {
+        "md5": "8ae4be5b7bf604e0636be90605f13732"
+    },
+    "res/club/images/recommendroom/guild_recommend_room.png": {
+        "md5": "000508615624bbcaf36a2ea640582d77"
+    },
+    "res/club/images/redpacket/guild_my_red_packet.plist": {
+        "md5": "13b952bd5a7feef90674cad8661e6235"
+    },
+    "res/club/images/redpacket/guild_my_red_packet.png": {
+        "md5": "8e2ac3c48e64f473e38b1b5c02710e2e"
+    },
+    "res/club/images/redpacket/guild_red_packet.plist": {
+        "md5": "7762d8ecb66c7c8ecfa3290e6626b436"
+    },
+    "res/club/images/redpacket/guild_red_packet.png": {
+        "md5": "7d053b018cfc008bb77411d853fa7c15"
+    },
+    "res/club/images/redpacket/guild_red_packet_des.plist": {
+        "md5": "4317caa23e26d24dc7c5bf28a668b720"
+    },
+    "res/club/images/redpacket/guild_red_packet_des.png": {
+        "md5": "53170b5ef8dcdb4553d2234e85f60e2f"
+    },
+    "res/club/images/redpacket/guild_red_packet_guide.plist": {
+        "md5": "dbe61016a5ef403c7772ea8de4974356"
+    },
+    "res/club/images/redpacket/guild_red_packet_guide.png": {
+        "md5": "1733db8825977e84a11482d1c234e376"
+    },
+    "res/club/images/roomInvite/guild_room_invite.plist": {
+        "md5": "d7ae7ddcc8f908020ef26a7574096db8"
+    },
+    "res/club/images/roomInvite/guild_room_invite.png": {
+        "md5": "984985b0a19c08146ad8615d590dcd9d"
+    },
+    "res/club/images/share/guild_share.plist": {
+        "md5": "836dce34499d588bad3d21c6b8565584"
+    },
+    "res/club/images/share/guild_share.png": {
+        "md5": "b09b4338fde9e46be8c85efd021111e4"
+    },
+    "res/club/images/smalltable/smalltable.plist": {
+        "md5": "99c7202e99a3626a2b9f54a32451a42f"
+    },
+    "res/club/images/smalltable/smalltable.png": {
+        "md5": "df383d84e0806952e50fe0a6200090b4"
+    },
+    "res/club/images/smalltable/xpz_bg.png": {
+        "md5": "ab76b6132bfd680a177d9d861740b0df"
+    },
+    "res/club/images/wechat/wechat.plist": {
+        "md5": "eb4c5313795a7772f7af402eebcb4bd2"
+    },
+    "res/club/images/wechat/wechat.png": {
+        "md5": "b5f9424c93be5f6d5d4118f526368438"
+    },
+    "res/club/shader/blur.fsh": {
+        "md5": "e2f96d9de207571d7491f9e930bd3a87"
+    },
+    "res/club/shader/blur.vsh": {
+        "md5": "c59eea884d334337e71bf7329d908fb7"
+    },
+    "res/club/shader/gray.fsh": {
+        "md5": "4e26931e0d6f079c8803a7d5396cd09f"
+    },
+    "res/club/shader/gray.vsh": {
+        "md5": "c59eea884d334337e71bf7329d908fb7"
+    },
+    "res/club/ui/account/Guild_v2_Account.csb": {
+        "md5": "3378e51bc7a905c561ddfc482cf9ab72"
+    },
+    "res/club/ui/account/Guild_v2_AccountAssets.csb": {
+        "md5": "c7fe6e2d88ab0e525497a9bb4dafaa85"
+    },
+    "res/club/ui/account/Guild_v2_AccountAssetsCell.csb": {
+        "md5": "6b2b5efb6dcf5b1e02d3b9175b8393e6"
+    },
+    "res/club/ui/account/Guild_v2_AccountCell.csb": {
+        "md5": "dfb7b8a2d6b312e37b51f3171dfa97e2"
+    },
+    "res/club/ui/account/Guild_v2_AccountListCell.csb": {
+        "md5": "3cc974d13bfc9a08d68392a93f3a4562"
+    },
+    "res/club/ui/activities/c2c/GuildC2CMainView.csb": {
+        "md5": "35136c9e8181f3738190ddfade8023db"
+    },
+    "res/club/ui/activities/c2c/GuildC2CPublicize.csb": {
+        "md5": "89af31898b810bc484ca4d05ef7ca363"
+    },
+    "res/club/ui/activities/c2c/GuildC2CRecall.csb": {
+        "md5": "e0a86cf975534825a935be05b7e206da"
+    },
+    "res/club/ui/activities/c2c/GuildC2CRecallCell.csb": {
+        "md5": "eb73373d564a7cf9e2823f770bffce78"
+    },
+    "res/club/ui/activities/c2c/GuildC2CRedPacket.csb": {
+        "md5": "6f8d43485064835d02491a8bff4f61a0"
+    },
+    "res/club/ui/activities/c2c/GuildC2CReward.csb": {
+        "md5": "fc09bf868785da5d85db20b90f5fc217"
+    },
+    "res/club/ui/activities/c2c/GuildC2CRewardCell.csb": {
+        "md5": "15c95c25f2022b6f285a57f8297076e0"
+    },
+    "res/club/ui/activities/c2c/GuildC2CRule.csb": {
+        "md5": "dfc3d209126a51b83c441513d865a237"
+    },
+    "res/club/ui/activities/recall/GuildB2cGuideView.csb": {
+        "md5": "2c69a63c42154258679e700b57cbf36d"
+    },
+    "res/club/ui/activities/recall/GuildCanRecallListCell.csb": {
+        "md5": "1dcebed9050e01bf567b0cff71719c2b"
+    },
+    "res/club/ui/activities/recall/GuildCanRecallListView.csb": {
+        "md5": "6eaeb21ef3e00fd98af9d4a61b5b5da9"
+    },
+    "res/club/ui/activities/recall/GuildInvOrRecCell.csb": {
+        "md5": "d0025171d141911ae1753f58108d952e"
+    },
+    "res/club/ui/activities/recall/GuildInvitedView.csb": {
+        "md5": "854c833d62d05f7bd40d6a86522e5b87"
+    },
+    "res/club/ui/activities/recall/GuildPublicMap.csb": {
+        "md5": "b992fa3e967f79def42f28ea2d87f85c"
+    },
+    "res/club/ui/activities/recall/GuildRecallHelpView.csb": {
+        "md5": "fc7eb64fa97c4d810d0a798be84a90e0"
+    },
+    "res/club/ui/activities/recall/GuildRecallHistoryCell.csb": {
+        "md5": "2b97a64ab1e43d17f825b6af7a9ebe30"
+    },
+    "res/club/ui/activities/recall/GuildRecallHistoryView.csb": {
+        "md5": "38cb272ca50f0f3b8414b0ff9e49c0ec"
+    },
+    "res/club/ui/activities/recall/GuildRecallNoticView.csb": {
+        "md5": "702b0a806707d9333232ba9f7f145a30"
+    },
+    "res/club/ui/activities/recall/GuildRecallView.csb": {
+        "md5": "814821f9f98b748c9ac3bfe1e2c72215"
+    },
+    "res/club/ui/activities/recall/GuildRecalledView.csb": {
+        "md5": "7808869599e6ee61d2fc45ceaf0164b9"
+    },
+    "res/club/ui/activities/returncard/GuildReturnCard.csb": {
+        "md5": "999f746ead4c24e9f0ec8d8b01241deb"
+    },
+    "res/club/ui/activities/returncard/GuildReturnCardBubble.csb": {
+        "md5": "fc15a1873ca99d09e2c85624d2360c87"
+    },
+    "res/club/ui/activities/returncard/GuildReturnCardReward.csb": {
+        "md5": "a800fb31f938a33e5fdf9d5d71185cc8"
+    },
+    "res/club/ui/activities/returncard/GuildReturnCardRewardCell.csb": {
+        "md5": "4a8e264f74c8359bafddfc4fe5df9bb2"
+    },
+    "res/club/ui/activities/returncard/GuildReturnCardRule.csb": {
+        "md5": "a26ecfc61217972f6e77ffa712cfcdd4"
+    },
+    "res/club/ui/activities/returncard/GuildReturnRuleCell.csb": {
+        "md5": "6bc8952480c034c9077b12539805fb03"
+    },
+    "res/club/ui/activities/reward/GuildReardOfJoin.csb": {
+        "md5": "62ca1559c46ac06990d83da19b8a2b67"
+    },
+    "res/club/ui/activities/reward/GuildRewardOfJoinSucc.csb": {
+        "md5": "fdcd24be2cde97b9f01d1e95c788ada1"
+    },
+    "res/club/ui/activities/task/GuildTaskMain.csb": {
+        "md5": "a6eece2a39047760f6a75aed6f21f85f"
+    },
+    "res/club/ui/activities/task/GuildTaskReward.csb": {
+        "md5": "5b2ced12de29611174d515ebf50e9665"
+    },
+    "res/club/ui/activities/task/GuildTaskRewardCell.csb": {
+        "md5": "1571068eca46208bff0c8adf5907a926"
+    },
+    "res/club/ui/activities/task/GuildTaskRule.csb": {
+        "md5": "33f75f8638ce2706997be29b352f7a27"
+    },
+    "res/club/ui/activities/task/GuildTaskTips.csb": {
+        "md5": "c33da1ae2d28f173b7d7f0c036c90936"
+    },
+    "res/club/ui/badge/GuildBadgeView.csb": {
+        "md5": "3c2f351d833f3dab0a94b765616dff7a"
+    },
+    "res/club/ui/baninroom/Guild_BanInRoom_AddCell.csb": {
+        "md5": "4d2a5f74f9c1aa572808d74ef9ed8e60"
+    },
+    "res/club/ui/baninroom/Guild_BanInRoom_AddView.csb": {
+        "md5": "803a02f1ee20161a9c930532128f7111"
+    },
+    "res/club/ui/baninroom/Guild_BanInRoom_MainCell.csb": {
+        "md5": "53f695aa1accf33e6194990bb68bf2a1"
+    },
+    "res/club/ui/baninroom/Guild_BanInRoom_MainUsrCell.csb": {
+        "md5": "35ed7ffc8c5386f406df7b3371be2376"
+    },
+    "res/club/ui/baninroom/Guild_BanInRoom_Panel.csb": {
+        "md5": "58838b5d41d030acaf485cab2b9d9144"
+    },
+    "res/club/ui/banotherinroom/Guild_BanOtherInRoom_AddView.csb": {
+        "md5": "59f056f91c7ed8b7fe39a34b3c9cba4b"
+    },
+    "res/club/ui/banotherinroom/Guild_BanOtherInRoom_Cell.csb": {
+        "md5": "0081431958660cb150470e434e52511f"
+    },
+    "res/club/ui/banotherinroom/Guild_BanOtherInRoom_MainPanel.csb": {
+        "md5": "edf8384ba905cbec9c09a938e517880c"
+    },
+    "res/club/ui/beanshop/Guild_BeanShopMainPanel.csb": {
+        "md5": "155ee2a9d23eb116302fc6274bfa0903"
+    },
+    "res/club/ui/beanshop/Guild_BeanShop_ApplyCell.csb": {
+        "md5": "4af58083b1514e18732397b542dbc4ac"
+    },
+    "res/club/ui/beanshop/Guild_BeanShop_Apply_Panel.csb": {
+        "md5": "2693b884a40d734ce8eb7543dd78d1b0"
+    },
+    "res/club/ui/beanshop/Guild_BeanShop_NoticeTips.csb": {
+        "md5": "cc84994739721efe92e4c79de58278bb"
+    },
+    "res/club/ui/beanshop/Guild_BeanShop_Order_Review.csb": {
+        "md5": "167b8a5a78de38aec79c8a5cd7a66dec"
+    },
+    "res/club/ui/beanshop/Guild_BeanShop_Order_ReviewCell.csb": {
+        "md5": "d756328a45cf89fa66c5792247f8fa0d"
+    },
+    "res/club/ui/beanshop/Guild_BeanShop_SetingCell.csb": {
+        "md5": "7aca4424d39f2bfde29adce3eb9ad66d"
+    },
+    "res/club/ui/beanshop/Guild_BeanShop_Seting_Panel.csb": {
+        "md5": "7a699245687410cc0b9783badf279823"
+    },
+    "res/club/ui/callplay/Guild_CallPlayCell.csb": {
+        "md5": "97496a7b995674728f0059b6f7ad8d1b"
+    },
+    "res/club/ui/callplay/Guild_CallPlayNode.csb": {
+        "md5": "75e3809a18632484b7d9ebe1da6d43f5"
+    },
+    "res/club/ui/callplay/Guild_CallPlayTipsNode.csb": {
+        "md5": "4b91924ba24f0d42fa0b009c2e97c332"
+    },
+    "res/club/ui/createclub/Guild_CreateClub_Main.csb": {
+        "md5": "7449341becaa5f51bddf0b6d453cec3b"
+    },
+    "res/club/ui/createclub/Guild_CreateClub_view.csb": {
+        "md5": "e000f195873b0b046430b5b084d84692"
+    },
+    "res/club/ui/effectivenumber/GuildENInvitedViw.csb": {
+        "md5": "ae5c001018576dc76105f1a3e1f02367"
+    },
+    "res/club/ui/effectivenumber/GuildZTLChangePlay.csb": {
+        "md5": "23cba9feed5453d6dc185a1d6ec4d84d"
+    },
+    "res/club/ui/effectivenumber/GuildZeroToLowView.csb": {
+        "md5": "753e718cafb41a569d83faae1fdb035e"
+    },
+    "res/club/ui/evenopenrecord/GuildEvenOpenListCell.csb": {
+        "md5": "24d3b07f38847719d0acca7fa363253f"
+    },
+    "res/club/ui/evenopenrecord/GuildEvenOpenRecordCell.csb": {
+        "md5": "3698ee800489ac0a0baeae63388408d8"
+    },
+    "res/club/ui/evenopenrecord/GuildEvenOpenRecordView.csb": {
+        "md5": "f11e23ccc5518da8d105c756b1cea7e7"
+    },
+    "res/club/ui/evenopenrecord/GuildEvenOpenSelector.csb": {
+        "md5": "b69d1283da48eefbe7d402be7256d91d"
+    },
+    "res/club/ui/firendlist/GuildFriendListContact.csb": {
+        "md5": "47950b579b5a8c19fee281a10418d6a5"
+    },
+    "res/club/ui/firendlist/GuildFriendListUserInfo.csb": {
+        "md5": "44e3d581bd0b6ba13b928ab0016d1255"
+    },
+    "res/club/ui/firendlist/GuildFriendListtTips.csb": {
+        "md5": "4b35b5bca9bf66678a5a28b6e2b819e0"
+    },
+    "res/club/ui/firendlist/GuildFriendsClubsCell.csb": {
+        "md5": "81ccccfa6fa7172b61463ac81d115dd4"
+    },
+    "res/club/ui/firendlist/GuildFriendsDesksCell.csb": {
+        "md5": "0518f9aa5994c039ebd00c3f637aa47d"
+    },
+    "res/club/ui/firendlist/GuildFriendsListView.csb": {
+        "md5": "b011db9b918c64cb0810ed2a5bc81e87"
+    },
+    "res/club/ui/firendlist/guildFriendAnimation.csb": {
+        "md5": "bf5e8f3baac57716da26843e2e47c5b1"
+    },
+    "res/club/ui/firendlist2/GuildFriendsClubsCell.csb": {
+        "md5": "81ccccfa6fa7172b61463ac81d115dd4"
+    },
+    "res/club/ui/firendlist2/GuildFriendsDesksCell.csb": {
+        "md5": "0518f9aa5994c039ebd00c3f637aa47d"
+    },
+    "res/club/ui/firendlist2/GuildHallFriendClubListCell.csb": {
+        "md5": "8f905010a8b449266df61651793be887"
+    },
+    "res/club/ui/firendlist2/GuildHallFriendInfo.csb": {
+        "md5": "1020c4cf0dd04d219c9a95a8c11e47b6"
+    },
+    "res/club/ui/firendlist2/GuildHallFriendPrivacySetting.csb": {
+        "md5": "c3aa071f4bcc22e028a7f2d0d983ce84"
+    },
+    "res/club/ui/firendlist2/GuildHallFriendsCell.csb": {
+        "md5": "a5d07555ac0d2be568b247853bfa4769"
+    },
+    "res/club/ui/firendlist2/GuildHallFriendsListView.csb": {
+        "md5": "3bfc1e39ca0ffbd3cfcc2cc77ac37f73"
+    },
+    "res/club/ui/firendlist2/GuildHallNoFriendInfo.csb": {
+        "md5": "d93cecfd5a7a7cc4b5a56d4941214487"
+    },
+    "res/club/ui/firendlist2/GuildHallPlayInfo.csb": {
+        "md5": "12b5f4c89d02b99522b4f592a05e865c"
+    },
+    "res/club/ui/force_reset/GuildConfirmDisView.csb": {
+        "md5": "328d479d92ea4b0dbdcbc7a632c24faa"
+    },
+    "res/club/ui/force_reset/GuildSecConfirmDisWin.csb": {
+        "md5": "d696d937b6ecc20d08066f26fa94b6fb"
+    },
+    "res/club/ui/force_reset/Guild_v2_GuildCheckRoomNumber.csb": {
+        "md5": "c1e5d1af61f72050196e50740a4ccd45"
+    },
+    "res/club/ui/gamewatchapplyjoinclub/GuildGameWatchApplyBtnView.csb": {
+        "md5": "50f5f3434f59d7ff53b64d40b16f3772"
+    },
+    "res/club/ui/gamewatchapplyjoinclub/GuildGameWatchApplyCell.csb": {
+        "md5": "e240d7c52c51f165dfabb08b47d788b3"
+    },
+    "res/club/ui/gamewatchapplyjoinclub/GuildGameWatchApplyPro.csb": {
+        "md5": "2314a182dcb80255395532d1f458967e"
+    },
+    "res/club/ui/gamewatchapplyjoinclub/GuildGameWatchContact.csb": {
+        "md5": "e503017fbcbe2c92928f8783c9331a35"
+    },
+    "res/club/ui/gamewatchapplyjoinclub/GuildGameWatchRemindTips.csb": {
+        "md5": "5f2f995e35ddfae5a8b2abd75ba45a24"
+    },
+    "res/club/ui/gamewatchapplyjoinclub/GuildGameWatchTips.csb": {
+        "md5": "7810a98991390f865fc97617b3e317a8"
+    },
+    "res/club/ui/generalFamAndFriCircle/Guild_general_disbandNoticeTips.csb": {
+        "md5": "8a6e24fd2884b42b0e72a169b52e1052"
+    },
+    "res/club/ui/generalFamAndFriCircle/Guild_general_guildAccountManagement.csb": {
+        "md5": "34a839980cccae57ec9e284c5d0ecf1a"
+    },
+    "res/club/ui/generalFamAndFriCircle/Guild_general_guildAccountManagementOption.csb": {
+        "md5": "db18c2a535000d72ae2fb6f5a020639d"
+    },
+    "res/club/ui/generalFamAndFriCircle/Guild_general_guildAccountManagementOptionB.csb": {
+        "md5": "a73a940fa6e82613a83ec1ac48d68dc8"
+    },
+    "res/club/ui/generalFamAndFriCircle/Guild_general_guildAccountManagementcell.csb": {
+        "md5": "cc5d664f3100707ac48af79f4bfd30db"
+    },
+    "res/club/ui/generalFamAndFriCircle/Guild_general_guildBasicSetting.csb": {
+        "md5": "c2854b4d0323f351dc22832c5b1053c3"
+    },
+    "res/club/ui/generalFamAndFriCircle/Guild_general_managerTransfer.csb": {
+        "md5": "62621713d019e095a5bb74bd5a28e6a9"
+    },
+    "res/club/ui/generalFamAndFriCircle/Guild_general_managerTransferCell.csb": {
+        "md5": "d1b99c4a28fbb6564b355b63f95f9789"
+    },
+    "res/club/ui/generalFamAndFriCircle/Guild_general_transferNoticeTips.csb": {
+        "md5": "c29f40d8574890946b7e77c276e39306"
+    },
+    "res/club/ui/generalFamAndFriCircle/Guild_general_wxModify.csb": {
+        "md5": "3ec3099e24cac6d7e4ff9cea6dcd42a6"
+    },
+    "res/club/ui/generalFamAndFriCircle/Guild_general_xgqyqmcModify.csb": {
+        "md5": "44f1a416aea88402f933b3d469613e4e"
+    },
+    "res/club/ui/guide/GuildGameWatchGuide.csb": {
+        "md5": "20988e79e9f9bd8c390d643d07e08c88"
+    },
+    "res/club/ui/hall/AdSpace.csb": {
+        "md5": "f1459de834a21cabe8a42ed32bdce097"
+    },
+    "res/club/ui/hall/BottomButton.csb": {
+        "md5": "b8191bd4951b7fd21fd0aeff451a7065"
+    },
+    "res/club/ui/hall/GuildHall.csb": {
+        "md5": "dccfcd5970868b4b17e538b0dd09f4b6"
+    },
+    "res/club/ui/hall/GuildHallMarquee.csb": {
+        "md5": "349cd62b5645336e82dfc0761513beac"
+    },
+    "res/club/ui/hall/GuildRoomShow.csb": {
+        "md5": "5a03a734d13140e83a3ebd6cfef8ed8c"
+    },
+    "res/club/ui/hallpopview/Guild_v2_HallFriendsPurchaseCardTips.csb": {
+        "md5": "70f5efb0beae81092d7d4b88f27383a1"
+    },
+    "res/club/ui/hallpopview/Guild_v2_NoCircleAgentCreateTips.csb": {
+        "md5": "d48a053741f98f83d4e64c38ec52979f"
+    },
+    "res/club/ui/hallpopview/Guild_v2_NoCircleAgentIcon.csb": {
+        "md5": "f82c6652cf1dbfc435e21acb7b4b91a1"
+    },
+    "res/club/ui/hallpopview/Guild_v2_NoCircleAgentInviteTips.csb": {
+        "md5": "c53b69e5aa7c798be5205e57240b55e3"
+    },
+    "res/club/ui/historyrecordinquiry/GuildEvenOpenSelector_Filter.csb": {
+        "md5": "f3b9507260c28f395634c7dba6efe2c3"
+    },
+    "res/club/ui/historyrecordinquiry/GuildEvenOpenSelector_Record.csb": {
+        "md5": "f77bc3650d8eaafc0ee3dd8ac92d4ffd"
+    },
+    "res/club/ui/historyrecordinquiry/GuildEvenOpenSelector_Time.csb": {
+        "md5": "32fb7f72f00ad64f495303ad03610e13"
+    },
+    "res/club/ui/historyrecordinquiry/GuildPartnerSelector_Ranking.csb": {
+        "md5": "7a8d5f7faba8808b711e1809c73bdc73"
+    },
+    "res/club/ui/historyrecordinquiry/GuildPartnerSelector_Record.csb": {
+        "md5": "f57dc7f165f8d8b7208dd4b5b3de1846"
+    },
+    "res/club/ui/historyrecordinquiry/GuildScoreSelector_Ranking.csb": {
+        "md5": "e069a2fccff14732065075792abcba8d"
+    },
+    "res/club/ui/historyrecordinquiry/GuildScoreSelector_Record.csb": {
+        "md5": "e069a2fccff14732065075792abcba8d"
+    },
+    "res/club/ui/historyrecordinquiry/GuildScoreSelector_Statistics.csb": {
+        "md5": "e069a2fccff14732065075792abcba8d"
+    },
+    "res/club/ui/historyrecordinquiry/GuildStatisticsSelector_Time.csb": {
+        "md5": "32fb7f72f00ad64f495303ad03610e13"
+    },
+    "res/club/ui/images/smalltable/smalltable.png": {
+        "md5": "a940971ab52bd0269c3bef5ce69e1850"
+    },
+    "res/club/ui/invite/guild_invite_join_room_cell.csb": {
+        "md5": "22a903728f6c46512cfbac2393de62ae"
+    },
+    "res/club/ui/invite/guild_invite_join_room_view.csb": {
+        "md5": "57821425196a97d80bf4a76728955491"
+    },
+    "res/club/ui/invite/guild_invite_view.csb": {
+        "md5": "e70a5382b7c92813c6c2e8cf5e889a58"
+    },
+    "res/club/ui/invite/guild_invited_to_room_view.csb": {
+        "md5": "9fe881efc2bb0852427c1b9d0779b2e2"
+    },
+    "res/club/ui/invite/guild_room_detail.csb": {
+        "md5": "2916caf8a830baf5a9aba59d0677416d"
+    },
+    "res/club/ui/leisureclose/Guild_leisure_close_create_tip.csb": {
+        "md5": "2117caf7607f6ce8865c536ed98cb5af"
+    },
+    "res/club/ui/leisureclose/Guild_leisure_close_explain.csb": {
+        "md5": "85096a2a215fe5d804775afe44c00935"
+    },
+    "res/club/ui/majorleague/guild_play_cell_view.csb": {
+        "md5": "af9eb1477fe2f45947cb3c4940f5c5c8"
+    },
+    "res/club/ui/majorleague/guild_play_chanage_name_notice.csb": {
+        "md5": "35428a061bf92dfe47e8934a9d60ff55"
+    },
+    "res/club/ui/majorleague/guild_play_guild_cell.csb": {
+        "md5": "16c2a87e368cbf90555c681f87a450d6"
+    },
+    "res/club/ui/majorleague/guild_play_manager_view.csb": {
+        "md5": "8bdd7e1ddb0cb6d3d62b9621bc17f62f"
+    },
+    "res/club/ui/membermgr/Guild_small_hut_add_view.csb": {
+        "md5": "789fe71f565a06ab9dd44f1f6cdf2c51"
+    },
+    "res/club/ui/membermgr/Guild_small_hut_add_view_cell.csb": {
+        "md5": "c59ecdd46ca54772d94d9bdc38ad4059"
+    },
+    "res/club/ui/membermgr/Guild_small_hut_cell.csb": {
+        "md5": "ec9c83a5710e89ff5576a48a4366ba33"
+    },
+    "res/club/ui/membermgr/Guild_small_hut_guilde_view.csb": {
+        "md5": "392ef62609c704f40247c8849710dc25"
+    },
+    "res/club/ui/membermgr/Guild_small_hut_view.csb": {
+        "md5": "fb34b656e273d02722f7c99f01e2f032"
+    },
+    "res/club/ui/membermodule/Guild_MemberListPanel.csb": {
+        "md5": "3f8a06595e3a9aabf746b096cb4eb215"
+    },
+    "res/club/ui/membermodule/Guild_MemberMainPanel.csb": {
+        "md5": "b4aa611c28b6d7b5b26980c002279d48"
+    },
+    "res/club/ui/membermodule/Guild_Member_AddShield_View.csb": {
+        "md5": "85099a3587daeb5af0ee58da4a72f78b"
+    },
+    "res/club/ui/membermodule/Guild_Member_EventOpenSelector.csb": {
+        "md5": "d7ca76f832eb0c43017c5e544370e628"
+    },
+    "res/club/ui/membermodule/Guild_Member_Guide.csb": {
+        "md5": "1f56f3045772ed571f28f4a0f5d67eb5"
+    },
+    "res/club/ui/membermodule/Guild_Member_JoinGuild_Panel.csb": {
+        "md5": "4c3e1da80ade5acdad7c56f015bf5ad7"
+    },
+    "res/club/ui/membermodule/Guild_Member_ListCell.csb": {
+        "md5": "d4172944399c89ca0675b0bc6a5c14ac"
+    },
+    "res/club/ui/membermodule/Guild_Member_SetWeiXinView.csb": {
+        "md5": "7bef08df89b4d0294a7daca12d79dd79"
+    },
+    "res/club/ui/membermodule/Guild_Member_ShieldCell.csb": {
+        "md5": "b1f779c5e3e9bd3014a4ed3460c3609f"
+    },
+    "res/club/ui/membermodule/Guild_Member_ShieldInvite_Panel.csb": {
+        "md5": "aceeb04c085158f9e66bb7dec7ae3aba"
+    },
+    "res/club/ui/membermodule/Guild_Memeber_MyInfo.csb": {
+        "md5": "10e6ba58da7cb4ec918ae6ad8b463024"
+    },
+    "res/club/ui/membermodule/Guild_Memeber_PeopleInfo_1.csb": {
+        "md5": "66dbc4b1c139dcf2f948d581f2ca7386"
+    },
+    "res/club/ui/membermodule/Guild_Memeber_PeopleInfo_3.csb": {
+        "md5": "ae90867b822d62c5d079339c670fb96a"
+    },
+    "res/club/ui/optrecord/GuildOptRecord.csb": {
+        "md5": "3690407e25b6342472d71dae48b4e3b4"
+    },
+    "res/club/ui/optrecord/GuildOptRecordCell.csb": {
+        "md5": "6907218f9cf46d2b7f54c4222c58df02"
+    },
+    "res/club/ui/partner/Guild_Partner_NoticeTip.csb": {
+        "md5": "737bc2bfb5dadaf1bc6a0bb1b6224cd0"
+    },
+    "res/club/ui/partner/Guild_add_partner.csb": {
+        "md5": "fc794e98f3e97057535bdee92a35f328"
+    },
+    "res/club/ui/partner/Guild_add_partner_cell.csb": {
+        "md5": "983a28685357375dfe9d8cc29fa86380"
+    },
+    "res/club/ui/partner/Guild_partner_Authority.csb": {
+        "md5": "8567f770969dd30d31afba47074ff7d8"
+    },
+    "res/club/ui/partner/Guild_partner_agreeornot.csb": {
+        "md5": "20cf1af6b18477d8b93a71ed3332d831"
+    },
+    "res/club/ui/partner/Guild_partner_apply_quit.csb": {
+        "md5": "7d03c663c176730985d2ab2e434cc0c8"
+    },
+    "res/club/ui/partner/Guild_partner_deal_quit.csb": {
+        "md5": "c0a33ee442a00d75d5efb4296857e79b"
+    },
+    "res/club/ui/partner/Guild_partner_info.csb": {
+        "md5": "7b31a792999dd838a952989f7696c6d4"
+    },
+    "res/club/ui/partner/Guild_partner_ranking_rule.csb": {
+        "md5": "7f843f9f7fee762de802f3966db5fbd0"
+    },
+    "res/club/ui/partner/Guild_partner_recall.csb": {
+        "md5": "329405e679b3a3cb553e993ed2544b0c"
+    },
+    "res/club/ui/partner/Guild_partner_view.csb": {
+        "md5": "71c6d0169533d1726cfd189cdbd68f43"
+    },
+    "res/club/ui/partner/Guild_partner_view_cell.csb": {
+        "md5": "56a383dcb79c2334ab611f64f74891e2"
+    },
+    "res/club/ui/partner/invite/guild_partner_invited.csb": {
+        "md5": "7f6d9f4c15b4cd883962c177b83efa99"
+    },
+    "res/club/ui/partner/invite/guild_partner_new_invite.csb": {
+        "md5": "342086e8d04ea1c3c0c052e78f1d062e"
+    },
+    "res/club/ui/partner/invite/guild_partner_user_list_cell.csb": {
+        "md5": "cc75f2b32a1f7fae24f99926fe233d51"
+    },
+    "res/club/ui/partner/invite/guild_partner_user_list_cell2.csb": {
+        "md5": "86da0b96e2d6a8312ce21a567b45a7f7"
+    },
+    "res/club/ui/partner/invite/guild_pattner_list_cell.csb": {
+        "md5": "2cd9b18be09edde7f3b769385fa132f5"
+    },
+    "res/club/ui/personalsecretary/Guild_v2_GuildPersonalSecretary.csb": {
+        "md5": "95f83f206ba904fa3054e2afb222e5e4"
+    },
+    "res/club/ui/quickjump/Guild_QuickJumpSet.csb": {
+        "md5": "4a9599d9f7d6d67c97d6412329245f87"
+    },
+    "res/club/ui/recommendqinyou/GuildRecommendApplyJoinView.csb": {
+        "md5": "9643878afb21ac7f367032a28719cbf7"
+    },
+    "res/club/ui/recommendqinyou/GuildRecommendQinYouCell.csb": {
+        "md5": "4340647563ded626750f1b93aecd1e3e"
+    },
+    "res/club/ui/recommendqinyou/GuildRecommendQinYouGameplayCell.csb": {
+        "md5": "018b0438e24b0047e3c4929fbc888b61"
+    },
+    "res/club/ui/recommendqinyou/GuildRecommendQinYouGameplayPop.csb": {
+        "md5": "33b2bd4b8a7a386e61e745a576ea7176"
+    },
+    "res/club/ui/recommendqinyou/GuildRecommendQinYouLowHighTips.csb": {
+        "md5": "d7c5d938d191f51dc8562167750d857e"
+    },
+    "res/club/ui/recommendqinyou/GuildRecommendQinYouLowHighUserCell.csb": {
+        "md5": "774c8aac3f6613eebae41fed1c13ff45"
+    },
+    "res/club/ui/recommendqinyou/GuildRecommendQinYouPanel.csb": {
+        "md5": "65988c5d4407935b1c9d21c91c73dadf"
+    },
+    "res/club/ui/recommendqinyou/GuildRecommendQinYouRewardCell.csb": {
+        "md5": "8a40f56cb90349a9cc0f72c19df014ce"
+    },
+    "res/club/ui/recommendqinyou/GuildRecommendQinYouRewardPanel.csb": {
+        "md5": "9cac403922cd3b857ac4dfd6d8481bf9"
+    },
+    "res/club/ui/recommendqinyou/GuildRecommendQinYouTips.csb": {
+        "md5": "bfda54790f0a5bc0e8da9af6e984b66f"
+    },
+    "res/club/ui/recommendqinyou/GuildRecommendQinYouUserCell.csb": {
+        "md5": "c8a16c45f22c1c964927d1b718938c0b"
+    },
+    "res/club/ui/recommendqinyou/GuildRecruitContact.csb": {
+        "md5": "0c93321a53fcd9e3b1b9eb630ad54666"
+    },
+    "res/club/ui/recommendqinyou/GuildRecruitHistoryCell.csb": {
+        "md5": "4acb7d804b65abd1cc73853ccdd81ef5"
+    },
+    "res/club/ui/recommendqinyou/GuildRecruitHistoryView.csb": {
+        "md5": "819b17364d5dcafc7bc2f8957f369892"
+    },
+    "res/club/ui/recommendroom/guild_recommend_room_cell.csb": {
+        "md5": "ced0a10c06fbc991b91d485356ac33f3"
+    },
+    "res/club/ui/recommendroom/guild_recommend_room_view.csb": {
+        "md5": "95321496a4e5377d63ce4ecb9807a805"
+    },
+    "res/club/ui/record/GuildRecords.csb": {
+        "md5": "b038f80a7c4469bb51c45b1cdfac56f1"
+    },
+    "res/club/ui/record/RecordTimeSelector.csb": {
+        "md5": "a77373b2c3d29844d2709eda58056834"
+    },
+    "res/club/ui/record/partner_record.csb": {
+        "md5": "e7ff596422d240b92672719846a59144"
+    },
+    "res/club/ui/record/partner_record_cell.csb": {
+        "md5": "10d56e0968f98f5aa94b2f4a6c6f38d3"
+    },
+    "res/club/ui/record/partner_record_details.csb": {
+        "md5": "8a40821a593cdd16a0f73ac70d1c417b"
+    },
+    "res/club/ui/record/partner_record_tips.csb": {
+        "md5": "9b23fae5608bc25f95c9beef1f331dec"
+    },
+    "res/club/ui/record/recordDetails.csb": {
+        "md5": "a56445f8617e9213fff9af2218e33b10"
+    },
+    "res/club/ui/record/recordMain.csb": {
+        "md5": "f9e94d912d66f18b42b0a468edc932eb"
+    },
+    "res/club/ui/record/recordMainCell.csb": {
+        "md5": "73e69b0ddd8109afd7201794ab4e1558"
+    },
+    "res/club/ui/record/recordMainCell1.csb": {
+        "md5": "a6c49e1802bbf2116c791472382817a9"
+    },
+    "res/club/ui/recorddisband/GuildRecordsDisband.csb": {
+        "md5": "7e1e75cec82b5158b671a0500a3d30b1"
+    },
+    "res/club/ui/recorddisband/GuildRecordsDisbandCell.csb": {
+        "md5": "c39cff5b222cab7b2f13c5f3164511e3"
+    },
+    "res/club/ui/recordpartnerstatistics/GuildRecordsPartnerStatistics.csb": {
+        "md5": "652126d2fad3ddadfb846359dd2a5b4f"
+    },
+    "res/club/ui/recordpartnerstatistics/GuildRecordsPartnerStatisticsCell.csb": {
+        "md5": "4681e72a5f342f52a9bd04f83319f7f5"
+    },
+    "res/club/ui/recordpersonaldetailspage/Guild_v2_GuildPersonalDetails.csb": {
+        "md5": "6420c7f790526b80a54e3139c1b6bfc4"
+    },
+    "res/club/ui/recordpersonaldetailspage/Guild_v2_GuildPersonalDetailsCell.csb": {
+        "md5": "b3fe2707b23581e3277025181d54ee7f"
+    },
+    "res/club/ui/redpacket/guild_red_packet_Invite_tips.csb": {
+        "md5": "497d9b5b3339dd1613145cd6c94fd39b"
+    },
+    "res/club/ui/redpacket/guild_red_packet_help.csb": {
+        "md5": "20e76e6f13d6334fdf737a234bd3c1ca"
+    },
+    "res/club/ui/redpacket/guild_red_packet_history_cell.csb": {
+        "md5": "a9007fcdac92eb35243f475123ef499d"
+    },
+    "res/club/ui/redpacket/guild_red_packet_novice_guide.csb": {
+        "md5": "80412e833cd07d9424a1cebea20a5abc"
+    },
+    "res/club/ui/redpacket/guild_red_packet_tip_view.csb": {
+        "md5": "29045fa0096f5474bf839b0e10cf426d"
+    },
+    "res/club/ui/redpacket/guild_red_packet_view.csb": {
+        "md5": "c1ab4e164e98b81576b4b0a5d47a733e"
+    },
+    "res/club/ui/redpacket/guild_show_redpacket_cell.csb": {
+        "md5": "06c6d5a54c271495243aaf1f56465542"
+    },
+    "res/club/ui/redpacket/guild_show_redpacket_des.csb": {
+        "md5": "3c36f576e6febf72c1bfcada3f1c04bd"
+    },
+    "res/club/ui/redpacket/guild_task_info_view1.csb": {
+        "md5": "659007fea98ea6e3ac412783742a6a94"
+    },
+    "res/club/ui/rewardOfJoin/GuildRewardTipOfJoin.csb": {
+        "md5": "fdea6b15d2a9aa70e7e19a4da32658be"
+    },
+    "res/club/ui/share/GuildOnlyShareView.csb": {
+        "md5": "3c5fb47ea4b850436ef7babf2527bfd9"
+    },
+    "res/club/ui/share/GuildShareView.csb": {
+        "md5": "0351dc1aa758af4c054c6429310b36b2"
+    },
+    "res/club/ui/smalltable/Gameplaymanagement.csb": {
+        "md5": "00ee8783a70b8c727baf56016b0c1064"
+    },
+    "res/club/ui/smalltable/GameplaymanagementGuild.csb": {
+        "md5": "4dbb44c0fd05a514898de9d1ef6ed7a2"
+    },
+    "res/club/ui/smalltable/Gameplaymanagementcell.csb": {
+        "md5": "7b1486778805fcc868eaec7b869364d7"
+    },
+    "res/club/ui/smalltable/GuildSmallTableDesPop.csb": {
+        "md5": "cfa5ebdc8987f0de4092f0936fac2944"
+    },
+    "res/club/ui/smalltable/GuildSmallTableUseTips.csb": {
+        "md5": "448315a631fdf8bfa69d2af994bb15de"
+    },
+    "res/club/ui/smalltable/GuildSystemQuickRecommedTips.csb": {
+        "md5": "c70c2f1ff0829d9daba9f68465bbb439"
+    },
+    "res/club/ui/smalltable/Guild_v2_GuildJoinHelpXpz.csb": {
+        "md5": "3b67286ab6f70eba8e9e6b655033792d"
+    },
+    "res/club/ui/smalltable/Guild_v2_GuildMainTopNodeXpz.csb": {
+        "md5": "1a3850c155ac647a8ce902b568c76b5e"
+    },
+    "res/club/ui/smalltable/smallTableCell.csb": {
+        "md5": "2bf543b56c13d6ee73b34da0f840fdd4"
+    },
+    "res/club/ui/smalltable/smallTableChageColor.csb": {
+        "md5": "694faf7afb1fe1a33de317a5f85da2b9"
+    },
+    "res/club/ui/smalltable/smallTableGuild.csb": {
+        "md5": "d4d1f660a13e5f91578931fad0fd284b"
+    },
+    "res/club/ui/smalltable/smalltablehall.csb": {
+        "md5": "a9984d09e694e522168ecf320fd1265f"
+    },
+    "res/club/ui/wechat/guild_copy_public_num.csb": {
+        "md5": "fa9fee021bd614e4e0ae333f4c3189df"
+    },
+    "res/club/ui/wechat/guild_wechat_view.csb": {
+        "md5": "fcc28f16d301cf12607284e3abc6acd2"
+    },
+    "res/club/ui/xapopview/Guild_v2_FriendClubRecommend.csb": {
+        "md5": "9bfdf4002a3acc976b2f060422e77a50"
+    },
+    "reslist.json": {
+        "md5": "56f3db44e25e3057caa2b78751fa212c"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "anthor": "oujianqi",
+    "dependencies": [],
+    "desc": "鼠你有财 【活动】增加春节资源",
+    "license": "MIT",
+    "name": "act33",
+    "ver": "v1.0.1",
+    "entry": "init.lua"
+}

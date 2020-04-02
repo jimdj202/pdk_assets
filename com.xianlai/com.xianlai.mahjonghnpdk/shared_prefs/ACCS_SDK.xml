@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="utdid">XnhXRpTqru0DAKpOtXks08ju</string>
+    <string name="appkey">umeng:5730967ee0f55a568800281f</string>
+    <int name="appVersionCode" value="190613" />
+    <int name="debug_mode" value="0" />
+</map>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="is_oversea" value="false" />
+    <int name="tbs_install_interrupt_code" value="-517" />
+    <int name="tbs_download_failed_retrytimes" value="0" />
+    <long name="tbs_downloadflow" value="30950265" />
+    <int name="tbs_download_interrupt_code_reason" value="-123" />
+    <long name="retry_interval" value="86400" />
+    <long name="last_check" value="1585791045948" />
+    <string name="tbs_downloadurl_list"></string>
+    <long name="count_request_fail_in_24hours" value="0" />
+    <long name="tbs_downloadstarttime" value="1585791046078" />
+    <int name="tbs_downloaddecouplecore" value="0" />
+    <int name="app_versioncode" value="190613" />
+    <int name="tbs_download_failed_max_retrytimes" value="10" />
+    <string name="last_thirdapp_sendrequest_coreversion">[]</string>
+    <string name="app_versionname">1.9.2</string>
+    <string name="tbs_deskey_token"></string>
+    <string name="tbs_downloadurl">http://tbs.imtt.qq.com/release/tbs_core_045132_20200311182345_nolog_fs_obfs.tbs</string>
+    <boolean name="tbs_needdownload" value="false" />
+    <long name="tbs_single_timeout" value="1200000" />
+    <int name="tbs_download_maxflow" value="300" />
+    <string name="device_cpuabi">armv7l</string>
+    <long name="tbs_download_interrupt_time" value="1585791766844" />
+    <int name="use_backup_version" value="0" />
+    <int name="tbs_download_min_free_space" value="0" />
+    <long name="request_fail" value="0" />
+    <long name="tbs_apkfilesize" value="30950265" />
+    <string name="tbs_apk_md5">ab68290dff6523a6d42e1c6ffe341ae4</string>
+    <int name="tbs_download_version" value="45132" />
+    <long name="last_request_success" value="1585791045992" />
+    <int name="tbs_decouplecoreversion" value="0" />
+    <int name="tbs_download_success_max_retrytimes" value="3" />
+    <int name="tbs_download_interrupt_code" value="-119" />
+    <int name="tbs_download_success_retrytimes" value="1" />
+    <boolean name="request_full_package" value="false" />
+    <string name="app_metadata">null</string>
+    <int name="tbs_responsecode" value="1" />
+    <int name="tbs_download_version_type" value="0" />
+</map>

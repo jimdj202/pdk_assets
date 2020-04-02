@@ -1,0 +1,9 @@
+{
+    "anthor": "KieryGao",
+    "dependencies": [],
+    "desc": "大厅2.9.4脚本",
+    "license": "MIT",
+    "name": "xlhall",
+    "ver": "v2.9.4-fix2",
+    "entry": "init.lua"
+}

@@ -1,0 +1,10 @@
+{
+    "anthor": "oujianqi",
+    "dependencies": [],
+    "desc": "添加战报分享",
+    "license": "MIT",
+    "name": "xlhall",
+    "ver": "v3.3.6",
+    "entry": "init.lua",
+    "ptype":0
+}

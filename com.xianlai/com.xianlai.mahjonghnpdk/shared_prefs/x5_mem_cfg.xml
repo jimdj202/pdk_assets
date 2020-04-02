@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="RunningMemAgressiveGrowthLimit" value="1426454" />
+    <int name="sRunningMemGentleGrowthLimit" value="2496295" />
+</map>

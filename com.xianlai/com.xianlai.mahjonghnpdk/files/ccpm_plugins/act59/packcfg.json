@@ -1,0 +1,17 @@
+{
+    "anthor": "yuhaibo",
+    "dependencies": [],
+    "desc": "耗卡转盘v2.0",
+    "license": "",
+    "name": "act59",
+    "ver": "v1.0.1",
+    "entry": "src/init.lua",
+    "packignore": [
+        ".*",
+        "cocosstudio",
+        "config.json",
+        "*.ccs",
+        "*.cfg",
+        "*.udf"
+    ]
+}

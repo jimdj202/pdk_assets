@@ -1,0 +1,37 @@
+{
+    "501002": {
+        "pieceIcon": "xlprop_p_wa.png",
+        "pieceName": "金蟾碎片",
+        "pieceDesc": "用于兑换装扮"
+    },
+    "501003": {
+        "pieceIcon": "xlprop_p_caishen.png",
+        "pieceName": "财神碎片",
+        "pieceDesc": "用于兑换装扮"
+    },
+    "501004": {
+        "pieceIcon": "xlprop_p_fu.png",
+        "pieceName": "福字碎片",
+        "pieceDesc": "福字碎片"
+    },
+    "501005": {
+        "pieceIcon": "xlprop_p_lu.png",
+        "pieceName": "禄字碎片",
+        "pieceDesc": "禄字碎片"
+    },
+    "501001": {
+        "pieceIcon": "xlprop_p_star.png",
+        "pieceName": "幸运星碎片",
+        "pieceDesc": "用于兑换专属装扮"
+    },
+    "501006": {
+        "pieceIcon": "xlprop_p_shou.png",
+        "pieceName": "寿字碎片",
+        "pieceDesc": "寿字碎片"
+    },
+    "501007": {
+        "pieceIcon": "xlprop_p_fu.png",
+        "pieceName": "福",
+        "pieceDesc": "用于兑换礼物"
+    }
+}

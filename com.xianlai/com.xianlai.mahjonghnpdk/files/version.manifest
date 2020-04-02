@@ -1,0 +1,11 @@
+{
+    "packageUrl" : "https://update.ssgxmj.com/client/hunanpdk_appstore/update/1385",
+    "bypackageUrl" : "https://update.ssgxmj.com/client/hunanpdk_appstore/update/1385",
+    "remoteVersionUrl" : "https://update.ssgxmj.com/client/hunanpdk_appstore/version.manifest",
+    "remoteManifestUrl" : "https://update.ssgxmj.com/client/hunanpdk_appstore/project.manifest",
+    "byremoteVersionUrl" : "https://update.ssgxmj.com/client/hunanpdk_appstore/version.manifest",
+    "byremoteManifestUrl" : "https://update.ssgxmj.com/client/hunanpdk_appstore/project.manifest",
+    "domainNameList" : ["update.ixianlaigames.com","update.cabdf.cn"],
+    "version" : "1.3.85",
+    "engineVersion" : "Cocos2d-x v3.10"
+    }

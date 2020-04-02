@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="YSF_SWITCH" value="false" />
+    <float name="YSF_SAMPLING_RATE" value="0.2" />
+    <long name="YSF_LAST_CONFIG_TIME" value="1585791049562" />
+    <long name="YSF_DISTINCT_PERIOD" value="432000000" />
+</map>

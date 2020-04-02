@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="on_realtime_ua_times_com.xianlai.mahjonghnpdk" value="3" />
+    <string name="on_ua_date">2020-04-02</string>
+    <long name="on_normal_ua_times_com.xianlai.mahjonghnpdk" value="2" />
+    <long name="on_realtime_ua_times_com.xianlai.mahjonghnpdk:channel" value="1" />
+    <long name="on_normal_ua_times_com.xianlai.mahjonghnpdk:channel" value="0" />
+</map>

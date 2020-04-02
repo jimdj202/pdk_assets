@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="httpdns_server_ips">203.107.1.65;203.107.1.34;203.107.1.66;203.107.1.33;203.107.1.1</string>
+    <long name="activiated_ip_index_modified_time" value="1585791045901" />
+    <int name="activiate_ip_index" value="0" />
+    <long name="schedule_center_last_request_time" value="1585791045886" />
+</map>

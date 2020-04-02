@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="fr" value="true" />
+    <boolean name="exception" value="true" />
+    <long name="ct" value="121000" />
+    <boolean name="ok0" value="true" />
+    <boolean name="ok4" value="true" />
+    <boolean name="ca" value="true" />
+    <long name="lagt" value="1585791153627" />
+    <string name="smac">0C:9D:92:0D:00:AC</string>
+    <boolean name="ok1" value="false" />
+    <boolean name="igu" value="false" />
+    <int name="fn" value="1000" />
+    <int name="mpn" value="200" />
+    <boolean name="ok3" value="true" />
+    <int name="ms" value="100" />
+    <boolean name="ok2" value="true" />
+</map>

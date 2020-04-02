@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="CUSTOM_NOTICE_gid">0</string>
+    <string name="run_version">1.9.2</string>
+    <boolean name="XL_LUA_NOT_iOS_REVIEW_KEY_" value="true" />
+    <int name="_kefu_red_count_cache_" value="0" />
+    <string name="AGREEMENT_ISAGREE">1</string>
+    <string name="PUSH_CATCH_RedPoint">2020-04-02</string>
+    <string name="FOR_FREE_CARD_POP">TRUE</string>
+    <string name="USER_DOCMENT_10001">[{&quot;id&quot;:&quot;0653&quot;,&quot;text&quot;:[&quot;ssmj369&quot;,&quot;hnmj355&quot;,&quot;hnmj778&quot;,&quot;cangsang7398&quot;,&quot;hnmj660&quot;,&quot;ynmj880&quot;],&quot;key&quot;:&quot;SHOP_WECHAT&quot;},{&quot;id&quot;:&quot;0930&quot;,&quot;text&quot;:[&quot;1&quot;],&quot;key&quot;:&quot;URL_tableshareHall&quot;},{&quot;id&quot;:&quot;0928&quot;,&quot;text&quot;:[&quot;1&quot;],&quot;key&quot;:&quot;URL_tableshare&quot;},{&quot;id&quot;:&quot;0779&quot;,&quot;text&quot;:[&quot;XLhunanmj&quot;],&quot;key&quot;:&quot;WOAINFO&quot;},{&quot;id&quot;:&quot;0652&quot;,&quot;text&quot;:[&quot;出版单位 三辰影库音像出版社&quot;],&quot;key&quot;:&quot;PUBLISHING_UNIT&quot;},{&quot;id&quot;:&quot;0651&quot;,&quot;text&quot;:[&quot;著作权人：北京闲徕互娱网络科技有限公司&quot;],&quot;key&quot;:&quot;COPYRIGHT_OWNER&quot;},{&quot;id&quot;:&quot;0650&quot;,&quot;text&quot;:[&quot;出版物号（ISBN）978-7-7979-0824-5&quot;],&quot;key&quot;:&quot;ISBN&quot;},{&quot;id&quot;:&quot;0649&quot;,&quot;text&quot;:[&quot;审批文号：新广出审[2016]2187号&quot;],&quot;key&quot;:&quot;APPROVAL_NUMBER&quot;},{&quot;id&quot;:&quot;0648&quot;,&quot;text&quot;:[&quot;文网游备字〔2016〕Ｍ-CBG 8629 号&quot;],&quot;key&quot;:&quot;WENYOUWANG&quot;},{&quot;id&quot;:&quot;0647&quot;,&quot;text&quot;:[&quot;软著登字第2016SR172900号&quot;],&quot;key&quot;:&quot;SOFT_REG_NUMBER&quot;},{&quot;id&quot;:&quot;0646&quot;,&quot;text&quot;:[&quot;京网文[2016]1755-215号&quot;],&quot;key&quot;:&quot;JING_WANGWEN&quot;},{&quot;id&quot;:&quot;0645&quot;,&quot;text&quot;:[&quot;京公网安备11010502031685&quot;],&quot;key&quot;:&quot;JING_GONGANBEI&quot;}]</string>
+</map>

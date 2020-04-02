@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="channel">Umeng</string>
+    <string name="appkey">5730967ee0f55a568800281f</string>
+    <string name="last_appkey">5730967ee0f55a568800281f</string>
+    <string name="location_json">{&quot;lng&quot;:114.56358166666665,&quot;lat&quot;:39.00125,&quot;ts&quot;:1585733554000,&quot;acc&quot;:1,&quot;alt&quot;:0}</string>
+</map>

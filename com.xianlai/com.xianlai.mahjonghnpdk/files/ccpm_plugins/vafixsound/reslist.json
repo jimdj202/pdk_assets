@@ -1,0 +1,77 @@
+{
+    "VADialectConfig.luac": {
+        "md5": "ba435c5624e1c9efccf030b90164e51f"
+    },
+    "hunan_man/fix_msg_1.mp3": {
+        "md5": "433441e02bd94f7b519363c9cf6a68bd"
+    },
+    "hunan_man/fix_msg_10.mp3": {
+        "md5": "24e7bb6f1a31a161b92c83ed12e5bfd7"
+    },
+    "hunan_man/fix_msg_11.mp3": {
+        "md5": "312ceb3c3ca389fe674e25ba3d53c2b7"
+    },
+    "hunan_man/fix_msg_2.mp3": {
+        "md5": "a7554c52e988b7abf7893c57645c692e"
+    },
+    "hunan_man/fix_msg_3.mp3": {
+        "md5": "ddb51c7a4a10c3e67cfe9c751297da80"
+    },
+    "hunan_man/fix_msg_4.mp3": {
+        "md5": "83f71021d4d51afee2966ff4af266a8f"
+    },
+    "hunan_man/fix_msg_5.mp3": {
+        "md5": "2efead3a2b473a3dde12f6bb388a1b88"
+    },
+    "hunan_man/fix_msg_6.mp3": {
+        "md5": "53f349e3e0680aa9203ba1b798fb3b04"
+    },
+    "hunan_man/fix_msg_7.mp3": {
+        "md5": "07481a0f6db04439cfdf2689d3aa1f63"
+    },
+    "hunan_man/fix_msg_8.mp3": {
+        "md5": "425e6eb63908b2ce2b3482920ac3ae21"
+    },
+    "hunan_man/fix_msg_9.mp3": {
+        "md5": "965765119acc6bf9910233c3d011cb3e"
+    },
+    "hunan_woman/fix_msg_1.mp3": {
+        "md5": "2d0bcb603e0fcae99cdb40bfdfb76050"
+    },
+    "hunan_woman/fix_msg_10.mp3": {
+        "md5": "15ba467b5cb762e18f5d4944dda4e955"
+    },
+    "hunan_woman/fix_msg_11.mp3": {
+        "md5": "4669c92af62bfa5ecb798bda70f7b2a9"
+    },
+    "hunan_woman/fix_msg_2.mp3": {
+        "md5": "dd544642e50eefd2b75908608b4a10c8"
+    },
+    "hunan_woman/fix_msg_3.mp3": {
+        "md5": "79b6bde3205bbbb26253f72408b296d3"
+    },
+    "hunan_woman/fix_msg_4.mp3": {
+        "md5": "1621324735c15a346c13fad27642277c"
+    },
+    "hunan_woman/fix_msg_5.mp3": {
+        "md5": "de1ccdfedc0175a06eb5aea5e3471155"
+    },
+    "hunan_woman/fix_msg_6.mp3": {
+        "md5": "cd46f2394a8d1443203eb2063dc110ec"
+    },
+    "hunan_woman/fix_msg_7.mp3": {
+        "md5": "cd17e3c8fee6d6c02d62501bfe9d7955"
+    },
+    "hunan_woman/fix_msg_8.mp3": {
+        "md5": "5c79e4b74d8e7230dd5416bfef84df9a"
+    },
+    "hunan_woman/fix_msg_9.mp3": {
+        "md5": "4fb0430b792d33a62a4a3fd276b980fc"
+    },
+    "packcfg.json": {
+        "md5": "1a2901580d63c913e08ec983fb2e4cfb"
+    },
+    "reslist.json": {
+        "md5": "56f3db44e25e3057caa2b78751fa212c"
+    }
+}

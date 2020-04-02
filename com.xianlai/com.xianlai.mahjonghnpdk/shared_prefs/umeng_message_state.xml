@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="KEY_UMENG_MESSAGE_APP_SECRET">96537e36dc9e90eb64763b8ac2530836</string>
+    <string name="KEY_UMENG_MESSAGE_APP_CHANNEL">Umeng</string>
+    <string name="KEY_UMENG_MESSAGE_APP_KEY">5730967ee0f55a568800281f</string>
+</map>

@@ -1,0 +1,560 @@
+{
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/XLHall_feedback_cont.csb": {
+        "md5": "a1bbed5106bddf8077e9f8034be59348"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/XLHall_login_agtip.csb": {
+        "md5": "c60783ddb5f491e8fb3b5c95594fe073"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/XLHall_service_lmsg.csb": {
+        "md5": "b342f5d74adcc23e29c723290fbe3d64"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/XLHeadpop_base.csb": {
+        "md5": "3eb22f0a2ccfc491a46f61999a3112d1"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/csb/Layer.csb": {
+        "md5": "803936d10718ab3cd487174fd8dc24cd"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/csb/layer2.csb": {
+        "md5": "864555245a921a4d14e2ea8134ee7516"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/csb/layer3.csb": {
+        "md5": "f5d97370282a7c1febdf52b2158242fc"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/csb/layer4.csb": {
+        "md5": "0c873e0ccd56c3777a963c976652baa3"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/csb/layer5.csb": {
+        "md5": "67ef0a4f0115eff92868c721c5ab4382"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/csb/layer6.csb": {
+        "md5": "d66f2ea04112f7fe61572808376bdf1b"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/csb/layer7.csb": {
+        "md5": "1959d8d6290ab3d2931b186f633e2f3e"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/csb/layer8.csb": {
+        "md5": "76c1ee6bd5f1e8704fc084448fea6072"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/btn_an.png": {
+        "md5": "5c3b9000a3ab12686cefa706a7e58f75"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/btn_gb.png": {
+        "md5": "f5b4c1d1c38219df39b4c7c0fc9399f6"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/btn_ljfx.png": {
+        "md5": "7f404db43f29fc399f3df99d7a32dc8f"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/btn_pyq.png": {
+        "md5": "e86dbd3841e299a7f5dfa72a774d8111"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/btn_wx.png": {
+        "md5": "fe0f913caed15ca0927a9447561cdcd7"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/btn_xyy.png": {
+        "md5": "3ecfa121a4cbea506bf82ad42d8bef53"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/btx_qd.png": {
+        "md5": "f3e0f87383724e4eed2a6ca3c7c107d0"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/hl_bt.png": {
+        "md5": "f05f1c8f8ab7883b45e207ac9057629b"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/hl_ts.png": {
+        "md5": "19e093b72571c9407197bb1df5ff3576"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/icon_fk.png": {
+        "md5": "47386c214b479b8bb6d778ea3ebdbc07"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/icotg_ndzbpng.png": {
+        "md5": "17ef8199abd0ce616be12c64513389af"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_bg.png": {
+        "md5": "4ca9b0ee45ef705482ce603b1640c892"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_chzs.png": {
+        "md5": "2881a5a6a6098b912c66d6b51e47703f"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_dk.png": {
+        "md5": "e30d263a0669a30b0aeb08185cdef5c6"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_dla.png": {
+        "md5": "d89b1822870261730e2a91f062acb22a"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_dlb.png": {
+        "md5": "3baaf23580f77133bea2dca7b2ff9d9e"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_ewm.png": {
+        "md5": "d5d1e5bbda7f73ac33a3070221ddb671"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_jy.png": {
+        "md5": "c4ecdec77610374877c70c3fd3a6aa44"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_jzt1.png": {
+        "md5": "6b647e1b94a648c1df72ca8c5dd090f0"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_jzt2.png": {
+        "md5": "ff4f1828ea5f7aa7c2970b151450deb1"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_jzwz.png": {
+        "md5": "3236d3caa4e313e8dd276cee64913b7a"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_jzz.png": {
+        "md5": "9570975808156bc146c326e3fcb5b2c6"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_pcxg.png": {
+        "md5": "2da14470d6a144b102dd36d08ace4f3e"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_qp.png": {
+        "md5": "1ca1ed79d4985f2e22451a8c169773f2"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_qptc.png": {
+        "md5": "5640f6cc71b6ae70f2e945df8c3e1a98"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_qs.png": {
+        "md5": "06085c646581b37bfacdeb1d4c17444d"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_tiao.png": {
+        "md5": "d535222eec1d73203b56e0ffd2d34dc2"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_txk.png": {
+        "md5": "118d6e6d8506e35503ef62af8b7edd5f"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_txk_132.png": {
+        "md5": "aec62fbab95aadb4ab5825e16317d20f"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_txk_big.png": {
+        "md5": "c458919a2c51786b014e222f6069bbf5"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_xlqs.png": {
+        "md5": "071612f0bdf8837868569216b5c01c50"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_yha.png": {
+        "md5": "207dd43eef7d73a9d3746f72ee68b1f9"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/img_yhb.png": {
+        "md5": "397c3dec7da5eb0d6ce55857edb7f132"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/images/pnl_tc.png": {
+        "md5": "ec178386e006d7780716b387e23c084f"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/anhui.png": {
+        "md5": "68d1fa19219dbd4131e4d766dac5bbae"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/fujian.png": {
+        "md5": "8e98ab9f68799808d243c22543964e7b"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/gansu.png": {
+        "md5": "559a586dae011ee3c4b006737c1c074a"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/guangdong.png": {
+        "md5": "ef010fc18ecd66dd9e8ff3f3aebd6133"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/guangxi.png": {
+        "md5": "f6477cdf374aaef052544ac6b9dbcc1a"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/guizhou.png": {
+        "md5": "98e582e40ca9935e3402fce40e896d16"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/hainan.png": {
+        "md5": "bec5adaea3803b20ca42b69623a95a8b"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/neimeng.png": {
+        "md5": "760dfe30e0d6dfe21b6f8ad0ecd94d78"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/ningxia.png": {
+        "md5": "2f672ebd321981fca24dbef05da9d677"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/shanxi.png": {
+        "md5": "0455d59530a6e61a3182ea89ff284d68"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/sichuan.png": {
+        "md5": "392f258666a0dc8a9682fa89b3d883d9"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/xianlai.png": {
+        "md5": "0ffffc5114e466bb30a68f73c084248a"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/logo/yunnan.png": {
+        "md5": "88b4d7b918852532b813794df359e8a2"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/src/actSummaryCtl.luac": {
+        "md5": "59e5e018bb075121eaec70591509d17d"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/src/config.luac": {
+        "md5": "d002dfbd1c974ac42a790d60b092f0fd"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/src/events.luac": {
+        "md5": "668fdc1f5fba91d76466b729665195a9"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/src/mainView.luac": {
+        "md5": "8e7687c2769788eefeb383d01d34c741"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/actSummary/src/utils.luac": {
+        "md5": "6ded4ee8afd7b1657373e5e0fd423fe2"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/framework_newarch.luac": {
+        "md5": "72bee9b44ca60e9877df63f706ba48c9"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/framework_pack.luac": {
+        "md5": "bb51fc3c6356b9aafed6a915cf4d666d"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/init.luac": {
+        "md5": "39c78aec5c5c49812d1383c65b97a1d1"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/lsdk_pack.luac": {
+        "md5": "8f497a2f6aeed4f48ef631f1c98d03f6"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/nsdk_pack.luac": {
+        "md5": "748ba26152f191d9b3fbc11d3fe4bff1"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/packcfg.json": {
+        "md5": "1cb22e7aca43b63f1bab56df1093b696"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/reslist.json": {
+        "md5": "9dcc8a1a11424b5e82d280039ce1fe67"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/uihall_pack.luac": {
+        "md5": "12298e5e3fc472793956ee45749970a1"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/alertex/alert_wxaddusr_title.png": {
+        "md5": "900ed4f23acd5168cbfa95390da5cd42"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/game_icon_chuiniu.png": {
+        "md5": "96a661bc9491b2eea7bb0e7f75897690"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/game_icon_mowang.png": {
+        "md5": "897dd8ca0057ffac2f6d0d3bb4c0d0f6"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/game_icon_qingliao.png": {
+        "md5": "71bf29c76db1c5cd8fb00f7bb32808f2"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/game_icon_shouji.png": {
+        "md5": "2043d5bf54216472473e56c977f7217e"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/game_icon_xianliao.png": {
+        "md5": "66880ae367d7575852608bbcfb5fca86"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/hpbase_btn_xianliao.png": {
+        "md5": "246a1f30abfb130c26c9f85fb4cdd61f"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/hpbase_btn_xianliao_o.png": {
+        "md5": "8aaf06371589215ddebbc7d0f923053b"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/login_btn_yonghuxieyi.png": {
+        "md5": "7e99f342cdc7c2cda3f0c56d10508f6e"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/login_btx_jieshou.png": {
+        "md5": "1964ab42e54f651c1adbc5b186316e1d"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/login_btx_jujue.png": {
+        "md5": "fd247cd22fefb906da656f6c659be6ad"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/login_btx_tongyi.png": {
+        "md5": "a1867f79fffa14295d1d5753075a9bd6"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/login_hl_tishi.png": {
+        "md5": "8399fdbce18aa2d8eafbd84735741b5d"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/login_hl_yinsibaohuzhiyin.png": {
+        "md5": "7d73cb3afc52e62612106185d6f39f44"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/login_hl_yonghuxuzhi.png": {
+        "md5": "1505180e437816367158bffdb918edf6"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/login/login_hl_youxiyonghuxieyi.png": {
+        "md5": "5bd44f92aa9e7fb51542272caeac45f5"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/xlv3.plist": {
+        "md5": "bef900068a07558cec48c998179aaccc"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/v3halltp_/xlv3.png": {
+        "md5": "b9670576af32b5e161b6075249d0ba1a"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/xsdk/SobotInterface.luac": {
+        "md5": "b3543c9e5c37c776b7a4f13cb36d3647"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/xsdk/VoiceManager.luac": {
+        "md5": "12c45df2704caf5753f087de07d970b5"
+    }, 
+    "4d9176a4-4c78-11ea-966b-dca9046ccfd5/xsdk/XianLiaoInterface.luac": {
+        "md5": "d1f20ac67bc223e0bcb9d0be6095bd94"
+    }, 
+    "XLHall_feedback_cont.csb": {
+        "md5": "a1bbed5106bddf8077e9f8034be59348"
+    }, 
+    "XLHall_login_agtip.csb": {
+        "md5": "c60783ddb5f491e8fb3b5c95594fe073"
+    }, 
+    "XLHall_service_lmsg.csb": {
+        "md5": "b342f5d74adcc23e29c723290fbe3d64"
+    }, 
+    "XLHeadpop_base.csb": {
+        "md5": "3eb22f0a2ccfc491a46f61999a3112d1"
+    }, 
+    "actSummary/csb/Layer.csb": {
+        "md5": "803936d10718ab3cd487174fd8dc24cd"
+    }, 
+    "actSummary/csb/layer2.csb": {
+        "md5": "864555245a921a4d14e2ea8134ee7516"
+    }, 
+    "actSummary/csb/layer3.csb": {
+        "md5": "f5d97370282a7c1febdf52b2158242fc"
+    }, 
+    "actSummary/csb/layer4.csb": {
+        "md5": "0c873e0ccd56c3777a963c976652baa3"
+    }, 
+    "actSummary/csb/layer5.csb": {
+        "md5": "67ef0a4f0115eff92868c721c5ab4382"
+    }, 
+    "actSummary/csb/layer6.csb": {
+        "md5": "d66f2ea04112f7fe61572808376bdf1b"
+    }, 
+    "actSummary/csb/layer7.csb": {
+        "md5": "1959d8d6290ab3d2931b186f633e2f3e"
+    }, 
+    "actSummary/csb/layer8.csb": {
+        "md5": "76c1ee6bd5f1e8704fc084448fea6072"
+    }, 
+    "actSummary/images/btn_an.png": {
+        "md5": "5c3b9000a3ab12686cefa706a7e58f75"
+    }, 
+    "actSummary/images/btn_gb.png": {
+        "md5": "f5b4c1d1c38219df39b4c7c0fc9399f6"
+    }, 
+    "actSummary/images/btn_ljfx.png": {
+        "md5": "7f404db43f29fc399f3df99d7a32dc8f"
+    }, 
+    "actSummary/images/btn_pyq.png": {
+        "md5": "e86dbd3841e299a7f5dfa72a774d8111"
+    }, 
+    "actSummary/images/btn_wx.png": {
+        "md5": "fe0f913caed15ca0927a9447561cdcd7"
+    }, 
+    "actSummary/images/btn_xyy.png": {
+        "md5": "3ecfa121a4cbea506bf82ad42d8bef53"
+    }, 
+    "actSummary/images/btx_qd.png": {
+        "md5": "f3e0f87383724e4eed2a6ca3c7c107d0"
+    }, 
+    "actSummary/images/hl_bt.png": {
+        "md5": "f05f1c8f8ab7883b45e207ac9057629b"
+    }, 
+    "actSummary/images/hl_ts.png": {
+        "md5": "19e093b72571c9407197bb1df5ff3576"
+    }, 
+    "actSummary/images/icon_fk.png": {
+        "md5": "47386c214b479b8bb6d778ea3ebdbc07"
+    }, 
+    "actSummary/images/icotg_ndzbpng.png": {
+        "md5": "17ef8199abd0ce616be12c64513389af"
+    }, 
+    "actSummary/images/img_bg.png": {
+        "md5": "4ca9b0ee45ef705482ce603b1640c892"
+    }, 
+    "actSummary/images/img_chzs.png": {
+        "md5": "2881a5a6a6098b912c66d6b51e47703f"
+    }, 
+    "actSummary/images/img_dk.png": {
+        "md5": "e30d263a0669a30b0aeb08185cdef5c6"
+    }, 
+    "actSummary/images/img_dla.png": {
+        "md5": "d89b1822870261730e2a91f062acb22a"
+    }, 
+    "actSummary/images/img_dlb.png": {
+        "md5": "3baaf23580f77133bea2dca7b2ff9d9e"
+    }, 
+    "actSummary/images/img_ewm.png": {
+        "md5": "d5d1e5bbda7f73ac33a3070221ddb671"
+    }, 
+    "actSummary/images/img_jy.png": {
+        "md5": "c4ecdec77610374877c70c3fd3a6aa44"
+    }, 
+    "actSummary/images/img_jzt1.png": {
+        "md5": "6b647e1b94a648c1df72ca8c5dd090f0"
+    }, 
+    "actSummary/images/img_jzt2.png": {
+        "md5": "ff4f1828ea5f7aa7c2970b151450deb1"
+    }, 
+    "actSummary/images/img_jzwz.png": {
+        "md5": "3236d3caa4e313e8dd276cee64913b7a"
+    }, 
+    "actSummary/images/img_jzz.png": {
+        "md5": "9570975808156bc146c326e3fcb5b2c6"
+    }, 
+    "actSummary/images/img_pcxg.png": {
+        "md5": "2da14470d6a144b102dd36d08ace4f3e"
+    }, 
+    "actSummary/images/img_qp.png": {
+        "md5": "1ca1ed79d4985f2e22451a8c169773f2"
+    }, 
+    "actSummary/images/img_qptc.png": {
+        "md5": "5640f6cc71b6ae70f2e945df8c3e1a98"
+    }, 
+    "actSummary/images/img_qs.png": {
+        "md5": "06085c646581b37bfacdeb1d4c17444d"
+    }, 
+    "actSummary/images/img_tiao.png": {
+        "md5": "d535222eec1d73203b56e0ffd2d34dc2"
+    }, 
+    "actSummary/images/img_txk.png": {
+        "md5": "118d6e6d8506e35503ef62af8b7edd5f"
+    }, 
+    "actSummary/images/img_txk_132.png": {
+        "md5": "aec62fbab95aadb4ab5825e16317d20f"
+    }, 
+    "actSummary/images/img_txk_big.png": {
+        "md5": "c458919a2c51786b014e222f6069bbf5"
+    }, 
+    "actSummary/images/img_xlqs.png": {
+        "md5": "071612f0bdf8837868569216b5c01c50"
+    }, 
+    "actSummary/images/img_yha.png": {
+        "md5": "207dd43eef7d73a9d3746f72ee68b1f9"
+    }, 
+    "actSummary/images/img_yhb.png": {
+        "md5": "397c3dec7da5eb0d6ce55857edb7f132"
+    }, 
+    "actSummary/images/pnl_tc.png": {
+        "md5": "ec178386e006d7780716b387e23c084f"
+    }, 
+    "actSummary/logo/anhui.png": {
+        "md5": "68d1fa19219dbd4131e4d766dac5bbae"
+    }, 
+    "actSummary/logo/fujian.png": {
+        "md5": "8e98ab9f68799808d243c22543964e7b"
+    }, 
+    "actSummary/logo/gansu.png": {
+        "md5": "559a586dae011ee3c4b006737c1c074a"
+    }, 
+    "actSummary/logo/guangdong.png": {
+        "md5": "ef010fc18ecd66dd9e8ff3f3aebd6133"
+    }, 
+    "actSummary/logo/guangxi.png": {
+        "md5": "f6477cdf374aaef052544ac6b9dbcc1a"
+    }, 
+    "actSummary/logo/guizhou.png": {
+        "md5": "98e582e40ca9935e3402fce40e896d16"
+    }, 
+    "actSummary/logo/hainan.png": {
+        "md5": "bec5adaea3803b20ca42b69623a95a8b"
+    }, 
+    "actSummary/logo/neimeng.png": {
+        "md5": "760dfe30e0d6dfe21b6f8ad0ecd94d78"
+    }, 
+    "actSummary/logo/ningxia.png": {
+        "md5": "2f672ebd321981fca24dbef05da9d677"
+    }, 
+    "actSummary/logo/shanxi.png": {
+        "md5": "0455d59530a6e61a3182ea89ff284d68"
+    }, 
+    "actSummary/logo/sichuan.png": {
+        "md5": "392f258666a0dc8a9682fa89b3d883d9"
+    }, 
+    "actSummary/logo/xianlai.png": {
+        "md5": "0ffffc5114e466bb30a68f73c084248a"
+    }, 
+    "actSummary/logo/yunnan.png": {
+        "md5": "88b4d7b918852532b813794df359e8a2"
+    }, 
+    "actSummary/src/actSummaryCtl.luac": {
+        "md5": "59e5e018bb075121eaec70591509d17d"
+    }, 
+    "actSummary/src/config.luac": {
+        "md5": "d002dfbd1c974ac42a790d60b092f0fd"
+    }, 
+    "actSummary/src/events.luac": {
+        "md5": "668fdc1f5fba91d76466b729665195a9"
+    }, 
+    "actSummary/src/mainView.luac": {
+        "md5": "8e7687c2769788eefeb383d01d34c741"
+    }, 
+    "actSummary/src/utils.luac": {
+        "md5": "6ded4ee8afd7b1657373e5e0fd423fe2"
+    }, 
+    "framework_newarch.luac": {
+        "md5": "72bee9b44ca60e9877df63f706ba48c9"
+    }, 
+    "framework_pack.luac": {
+        "md5": "bb51fc3c6356b9aafed6a915cf4d666d"
+    }, 
+    "init.luac": {
+        "md5": "39c78aec5c5c49812d1383c65b97a1d1"
+    }, 
+    "lsdk_pack.luac": {
+        "md5": "8f497a2f6aeed4f48ef631f1c98d03f6"
+    }, 
+    "nsdk_pack.luac": {
+        "md5": "748ba26152f191d9b3fbc11d3fe4bff1"
+    }, 
+    "packcfg.json": {
+        "md5": "1cb22e7aca43b63f1bab56df1093b696"
+    }, 
+    "reslist.json": {
+        "md5": "56f3db44e25e3057caa2b78751fa212c"
+    }, 
+    "uihall_pack.luac": {
+        "md5": "12298e5e3fc472793956ee45749970a1"
+    }, 
+    "v3halltp_/alertex/alert_wxaddusr_title.png": {
+        "md5": "900ed4f23acd5168cbfa95390da5cd42"
+    }, 
+    "v3halltp_/login/game_icon_chuiniu.png": {
+        "md5": "96a661bc9491b2eea7bb0e7f75897690"
+    }, 
+    "v3halltp_/login/game_icon_mowang.png": {
+        "md5": "897dd8ca0057ffac2f6d0d3bb4c0d0f6"
+    }, 
+    "v3halltp_/login/game_icon_qingliao.png": {
+        "md5": "71bf29c76db1c5cd8fb00f7bb32808f2"
+    }, 
+    "v3halltp_/login/game_icon_shouji.png": {
+        "md5": "2043d5bf54216472473e56c977f7217e"
+    }, 
+    "v3halltp_/login/game_icon_xianliao.png": {
+        "md5": "66880ae367d7575852608bbcfb5fca86"
+    }, 
+    "v3halltp_/login/hpbase_btn_xianliao.png": {
+        "md5": "246a1f30abfb130c26c9f85fb4cdd61f"
+    }, 
+    "v3halltp_/login/hpbase_btn_xianliao_o.png": {
+        "md5": "8aaf06371589215ddebbc7d0f923053b"
+    }, 
+    "v3halltp_/login/login_btn_yonghuxieyi.png": {
+        "md5": "7e99f342cdc7c2cda3f0c56d10508f6e"
+    }, 
+    "v3halltp_/login/login_btx_jieshou.png": {
+        "md5": "1964ab42e54f651c1adbc5b186316e1d"
+    }, 
+    "v3halltp_/login/login_btx_jujue.png": {
+        "md5": "fd247cd22fefb906da656f6c659be6ad"
+    }, 
+    "v3halltp_/login/login_btx_tongyi.png": {
+        "md5": "a1867f79fffa14295d1d5753075a9bd6"
+    }, 
+    "v3halltp_/login/login_hl_tishi.png": {
+        "md5": "8399fdbce18aa2d8eafbd84735741b5d"
+    }, 
+    "v3halltp_/login/login_hl_yinsibaohuzhiyin.png": {
+        "md5": "7d73cb3afc52e62612106185d6f39f44"
+    }, 
+    "v3halltp_/login/login_hl_yonghuxuzhi.png": {
+        "md5": "1505180e437816367158bffdb918edf6"
+    }, 
+    "v3halltp_/login/login_hl_youxiyonghuxieyi.png": {
+        "md5": "5bd44f92aa9e7fb51542272caeac45f5"
+    }, 
+    "v3halltp_/xlv3.plist": {
+        "md5": "bef900068a07558cec48c998179aaccc"
+    }, 
+    "v3halltp_/xlv3.png": {
+        "md5": "b9670576af32b5e161b6075249d0ba1a"
+    }, 
+    "xsdk/SobotInterface.luac": {
+        "md5": "b3543c9e5c37c776b7a4f13cb36d3647"
+    }, 
+    "xsdk/VoiceManager.luac": {
+        "md5": "12c45df2704caf5753f087de07d970b5"
+    }, 
+    "xsdk/XianLiaoInterface.luac": {
+        "md5": "d1f20ac67bc223e0bcb9d0be6095bd94"
+    }
+}

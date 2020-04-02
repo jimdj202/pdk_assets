@@ -1,0 +1,35 @@
+{
+    "packcfg.json": {
+        "md5": "95d9e352aacd03308978d09bf12cb066"
+    },
+    "res/csb/CustomNotice.csb": {
+        "md5": "6351b0d796f64e56c440b1efc2dcb644"
+    },
+    "res/images/custom_btn_huang.png": {
+        "md5": "50d2681ef3bacfdd9273e07cc7f4995e"
+    },
+    "res/images/custom_btn_lan.png": {
+        "md5": "8cd90518d69c7efb2e2f3569f1a5ec86"
+    },
+    "res/images/custom_pnl_bg.png": {
+        "md5": "05afb4b31e023199a1ebed5c1966a7bd"
+    },
+    "res/images/custom_tit_zs.png": {
+        "md5": "58302b07831c5263e8b11f026ae4a8aa"
+    },
+    "reslist.json": {
+        "md5": "56f3db44e25e3057caa2b78751fa212c"
+    },
+    "src/NoticeManager.luac": {
+        "md5": "13e1e28c343c5a83f0a3cea6e11b22be"
+    },
+    "src/NoticeSender.luac": {
+        "md5": "d714a420158284f6eece357bcc3a1286"
+    },
+    "src/NoticeView.luac": {
+        "md5": "fc83de4b83036d969864f2cbda3e4edb"
+    },
+    "src/init.luac": {
+        "md5": "76beae595ec7b3b8b3166b7b44218680"
+    }
+}

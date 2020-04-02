@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="com.xianlai.mahjonghnpdk_SDKVER_DENGTA">3.2.1.9-tbs</string>
+    <string name="GEN_QIMEI">2020-04-02</string>
+    <string name="rqd_model">2020-04-02</string>
+    <long name="on_app_first_install_time_com.xianlai.mahjonghnpdk:core" value="1585791180069" />
+    <string name="QIMEI_DENGTA">866174280630019</string>
+    <string name="on_qua_date">2020-04-02</string>
+    <string name="APPKEY_DENGTA">0M300GVKSH1IMBEK</string>
+    <string name="APPVER_DENGTA">1.9.2.190613</string>
+    <string name="com.xianlai.mahjonghnpdk:channel_SDKVER_DENGTA">3.2.1.9-tbs</string>
+    <long name="real_time_event_write_succ" value="0" />
+    <long name="real_time_event_upload_succ" value="2" />
+    <long name="common_event_write_succ" value="2" />
+    <string name="initsdkdate">2020-04-02</string>
+    <string name="HEART_DENGTA">2020-04-02</string>
+    <string name="IMEI_DENGTA">866174280630019</string>
+    <string name="querytimes">2</string>
+    <string name="LAUEVE_DENGTA">2020-04-02</string>
+    <long name="common_event_calls" value="2" />
+    <long name="on_app_first_install_time_com.xianlai.mahjonghnpdk:channel" value="1585791189450" />
+    <long name="on_app_first_install_time_com.xianlai.mahjonghnpdk" value="1585791054292" />
+    <long name="real_time_event_calls" value="3" />
+    <string name="key_channelpath"></string>
+    <int name="GEN_QIMEI_TIMES" value="1" />
+</map>

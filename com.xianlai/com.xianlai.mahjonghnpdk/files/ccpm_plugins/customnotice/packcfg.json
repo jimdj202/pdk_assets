@@ -1,0 +1,19 @@
+{
+  "name": "customnotice",
+  "ver": "v1.0.8",
+  "desc": "自定义公告",
+  "anthor": "xiaoyingying",
+  "license": "isc",
+  "entry": "src/init.lua",
+  "dependencies": [
+  ],
+  "packignore": [
+    ".*",
+    "cocosstudio",
+    "config.json",
+    "*.ccs",
+    "*.cfg",
+    "*.udf",
+    "upload"
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="max" value="50" />
+    <int name="download_config_progressbar" value="0" />
+    <int name="download_config_back_dialog" value="1" />
+    <string name="xpath">//sf1-ttcdn-tos.pstatp.com/obj/union-fe-nc/endcard/sdk/landing-page.js?ad_id={{ad_id}}</string>
+    <int name="vbtt" value="5" />
+    <string name="ad_slot_conf">[{&quot;code_id&quot;:908035032,&quot;auto_play&quot;:1,&quot;voice_control&quot;:1,&quot;nv_preload&quot;:0,&quot;rv_preload&quot;:0,&quot;proportion_watching&quot;:0,&quot;skip_time_displayed&quot;:0,&quot;video_skip_result&quot;:0,&quot;reg_creative_control&quot;:1,&quot;rv_skip_time&quot;:0,&quot;if_show_win&quot;:0,&quot;sp_preload&quot;:0,&quot;stop_time&quot;:0,&quot;native_playable_delay&quot;:0,&quot;time_out_control&quot;:0}]</string>
+    <long name="duration" value="10000" />
+    <int name="pos_cache_time" value="30" />
+</map>

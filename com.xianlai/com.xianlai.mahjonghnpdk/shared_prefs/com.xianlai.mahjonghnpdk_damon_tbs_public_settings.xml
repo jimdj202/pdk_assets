@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="key_tbs_former_tbscore_version">045132</string>
+    <int name="key_extend_rule_version" value="31" />
+    <boolean name="key_last_req_from_test_evn_preference" value="false" />
+    <long name="key_last_check_wup_config_date" value="1585791055960" />
+    <int name="key_qvod_support_type" value="1" />
+    <string name="key_extend_rule_md5">c2ee1161a76dd0a71251f62b5b38d684</string>
+    <boolean name="key_wup_server_ever_failed_WIFI10C:9D:92:0D:00:AC46007wup" value="false" />
+    <boolean name="key_last_req_from_test_evn_domainList" value="false" />
+    <boolean name="key_has_ever_login" value="true" />
+    <boolean name="key_extend_rule_pdated" value="true" />
+    <int name="key_preference_update_time" value="0" />
+    <long name="key_last_check_basic_config_date0" value="1585791055163" />
+</map>

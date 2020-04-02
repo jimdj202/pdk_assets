@@ -1,0 +1,62 @@
+
+niangniangjiadao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_erzhui
+  rotate: true
+  xy: 109, 36
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+R_erzhui
+  rotate: true
+  xy: 357, 119
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 357, 132
+  size: 83, 146
+  orig: 83, 146
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 159, 83
+  size: 80, 31
+  orig: 80, 31
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 47
+  size: 155, 168
+  orig: 155, 168
+  offset: 0, 0
+  index: -1
+niangniang_qipao
+  rotate: false
+  xy: 159, 116
+  size: 196, 99
+  orig: 196, 99
+  offset: 0, 0
+  index: -1
+tiaosui
+  rotate: true
+  xy: 2, 25
+  size: 20, 105
+  orig: 20, 105
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 2, 2
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
