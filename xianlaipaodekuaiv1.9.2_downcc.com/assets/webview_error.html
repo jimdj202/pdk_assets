@@ -1,0 +1,70 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0,user-scalable=no,viewport-fit=cover">
+    <script type="text/javascript">
+      !function (e, i) { var t = e.documentElement, n = navigator.userAgent.match(/iphone|ipod|ipad/gi), a = n ? Math.min(i.devicePixelRatio, 3) : 1, m = "orientationchange" in window ? "orientationchange" : "resize"; t.dataset.dpr = a; for (var d, l, c = !1, o = e.getElementsByTagName("meta"), r = 0; r < o.length; r++)l = o[r], "viewport" == l.name && (c = !0, d = l); if (c) d.content = "width=device-width,initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0,user-scalable=no,viewport-fit=cover"; else { var o = e.createElement("meta"); o.name = "viewport", o.content = "width=device-width,initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0,user-scalable=no,viewport-fit=cover", t.firstElementChild.appendChild(o) } var s = function () { var e = t.clientWidth; e / a > 750 && (e = 750 * a), window.remScale = e / 750, t.style.fontSize = 40 * (e / 750) + "px" }; s(), e.addEventListener && i.addEventListener(m, s, !1) }(document, window);
+    </script>
+    <style type="text/css">
+      * {
+        border: 0;
+        margin: 0;
+        padding: 0;
+        outline: 0;
+      }
+      html, body{
+        width: 100%;
+        height: 100%;
+        background-color:transparent;
+      }
+      .content{
+        display: inline-block;
+        text-align: center;
+        width: 100%;
+        height: 4.5rem;
+        position:absolute;
+        left:0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        margin: auto;
+      }
+      .content p {
+        text-align: center;
+        font-size: 0.7rem;
+        color: #c1c1c1;
+        height: 3rem;
+        line-height: 3rem;
+        text-align: center;
+      }
+      .content .btn{
+        display: inline-block;
+        width: 3.2rem;
+        height: 1.3rem;
+        font-size: 0.8rem;
+        color: #c1c1c1;
+        line-height: 1.3rem;
+        border-radius: 0.1rem;
+        border: 0.075rem solid #c1c1c1;
+        background-color: transparent;
+      }
+    </style>
+</head>
+<body>
+<div class="content">
+    <p>网络不给力，检查网络试试</p>
+    <div class="btn">重试</div>
+</div>
+<script type="text/javascript">
+      (function(){
+        document.querySelector(".btn").addEventListener("click", function(e) {
+          location.href = 'tuiad://reload'
+          e.stopPropagation()
+        })
+
+        document.body.addEventListener("click",function() {
+          location.href = 'tuiad://modalClose'
+        })
+      })()
+    </script>
+</body>
+</html>
